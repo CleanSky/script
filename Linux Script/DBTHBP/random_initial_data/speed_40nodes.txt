@@ -1,0 +1,2400 @@
+set V_(0) 12.0
+$vehicle_(0) setdest [expr $val(x)-1] 10.0 $V_(0)
+set V_(1) 5.458100259098004
+$vehicle_(1) setdest [expr $val(x)-1] 10.0 $V_(1)
+set V_(2) 13.005611460245257
+$vehicle_(2) setdest [expr $val(x)-1] 10.0 $V_(2)
+set V_(3) 7.726153184964746
+$vehicle_(3) setdest [expr $val(x)-1] 10.0 $V_(3)
+set V_(4) 1.7201601262049682
+$vehicle_(4) setdest [expr $val(x)-1] 10.0 $V_(4)
+set V_(5) 10.106980992841287
+$vehicle_(5) setdest [expr $val(x)-1] 10.0 $V_(5)
+set V_(6) 11.535074733940085
+$vehicle_(6) setdest [expr $val(x)-1] 10.0 $V_(6)
+set V_(7) 5.94528523171395
+$vehicle_(7) setdest [expr $val(x)-1] 10.0 $V_(7)
+set V_(8) 2.4747391603983226
+$vehicle_(8) setdest [expr $val(x)-1] 10.0 $V_(8)
+set V_(9) 9.940331088665442
+$vehicle_(9) setdest [expr $val(x)-1] 10.0 $V_(9)
+set V_(10) 6.191033375911741
+$vehicle_(10) setdest [expr $val(x)-1] 10.0 $V_(10)
+set V_(11) 18.03487723915068
+$vehicle_(11) setdest [expr $val(x)-1] 10.0 $V_(11)
+set V_(12) 18.047238503247456
+$vehicle_(12) setdest [expr $val(x)-1] 10.0 $V_(12)
+set V_(13) 0.03745586180734728
+$vehicle_(13) setdest [expr $val(x)-1] 10.0 $V_(13)
+set V_(14) 2.9581244797863815
+$vehicle_(14) setdest [expr $val(x)-1] 10.0 $V_(14)
+set V_(15) 6.861880282778241
+$vehicle_(15) setdest [expr $val(x)-1] 10.0 $V_(15)
+set V_(16) 5.510279884693112
+$vehicle_(16) setdest [expr $val(x)-1] 10.0 $V_(16)
+set V_(17) 8.974041439534997
+$vehicle_(17) setdest [expr $val(x)-1] 10.0 $V_(17)
+set V_(18) 6.88844910535188
+$vehicle_(18) setdest [expr $val(x)-1] 10.0 $V_(18)
+set V_(19) 7.2311713394498645
+$vehicle_(19) setdest [expr $val(x)-1] 10.0 $V_(19)
+set V_(20) 17.09655871721759
+$vehicle_(20) setdest [expr $val(x)-1] 10.0 $V_(20)
+set V_(21) 8.442924894029813
+$vehicle_(21) setdest [expr $val(x)-1] 10.0 $V_(21)
+set V_(22) 10.20260839017903
+$vehicle_(22) setdest [expr $val(x)-1] 10.0 $V_(22)
+set V_(23) 13.899544548353518
+$vehicle_(23) setdest [expr $val(x)-1] 10.0 $V_(23)
+set V_(24) 6.2335813154885304
+$vehicle_(24) setdest [expr $val(x)-1] 10.0 $V_(24)
+set V_(25) 14.585164730121969
+$vehicle_(25) setdest [expr $val(x)-1] 10.0 $V_(25)
+set V_(26) 8.341428829510269
+$vehicle_(26) setdest [expr $val(x)-1] 10.0 $V_(26)
+set V_(27) 18.171645317368487
+$vehicle_(27) setdest [expr $val(x)-1] 10.0 $V_(27)
+set V_(28) 4.457866912626747
+$vehicle_(28) setdest [expr $val(x)-1] 10.0 $V_(28)
+set V_(29) 3.0803608133985216
+$vehicle_(29) setdest [expr $val(x)-1] 10.0 $V_(29)
+set V_(30) 4.420644236871231
+$vehicle_(30) setdest [expr $val(x)-1] 10.0 $V_(30)
+set V_(31) 18.378750222368033
+$vehicle_(31) setdest [expr $val(x)-1] 10.0 $V_(31)
+set V_(32) 16.115951745094016
+$vehicle_(32) setdest [expr $val(x)-1] 10.0 $V_(32)
+set V_(33) 6.0803330652123755
+$vehicle_(33) setdest [expr $val(x)-1] 10.0 $V_(33)
+set V_(34) 6.232212206389731
+$vehicle_(34) setdest [expr $val(x)-1] 10.0 $V_(34)
+set V_(35) 7.138956190730488
+$vehicle_(35) setdest [expr $val(x)-1] 10.0 $V_(35)
+set V_(36) 15.51346056101708
+$vehicle_(36) setdest [expr $val(x)-1] 10.0 $V_(36)
+set V_(37) 13.230419039204298
+$vehicle_(37) setdest [expr $val(x)-1] 10.0 $V_(37)
+set V_(38) 16.752350980474827
+$vehicle_(38) setdest [expr $val(x)-1] 10.0 $V_(38)
+set V_(39) 14.01998803765552
+$vehicle_(39) setdest [expr $val(x)-1] 10.0 $V_(39)
+set V_(40) 12.052400553902183
+$vehicle_(40) setdest [expr $val(x)-1] 10.0 $V_(40)
+set V_(41) 1.3078085184107024
+$vehicle_(41) setdest [expr $val(x)-1] 10.0 $V_(41)
+set V_(42) 9.057778946572824
+$vehicle_(42) setdest [expr $val(x)-1] 10.0 $V_(42)
+set V_(43) 16.073503671951656
+$vehicle_(43) setdest [expr $val(x)-1] 10.0 $V_(43)
+set V_(44) 12.900745923979937
+$vehicle_(44) setdest [expr $val(x)-1] 10.0 $V_(44)
+set V_(45) 7.41649614868108
+$vehicle_(45) setdest [expr $val(x)-1] 10.0 $V_(45)
+set V_(46) 19.6180599030103
+$vehicle_(46) setdest [expr $val(x)-1] 10.0 $V_(46)
+set V_(47) 0.6824187546780203
+$vehicle_(47) setdest [expr $val(x)-1] 10.0 $V_(47)
+set V_(48) 19.867289710647977
+$vehicle_(48) setdest [expr $val(x)-1] 10.0 $V_(48)
+set V_(49) 19.213575520996738
+$vehicle_(49) setdest [expr $val(x)-1] 10.0 $V_(49)
+set V_(50) 10.123351486462195
+$vehicle_(50) setdest [expr $val(x)-1] 10.0 $V_(50)
+set V_(51) 15.260442413684272
+$vehicle_(51) setdest [expr $val(x)-1] 10.0 $V_(51)
+set V_(52) 7.4086369631600135
+$vehicle_(52) setdest [expr $val(x)-1] 10.0 $V_(52)
+set V_(53) 2.3017680141057895
+$vehicle_(53) setdest [expr $val(x)-1] 10.0 $V_(53)
+set V_(54) 17.323266445829322
+$vehicle_(54) setdest [expr $val(x)-1] 10.0 $V_(54)
+set V_(55) 6.565657655401207
+$vehicle_(55) setdest [expr $val(x)-1] 10.0 $V_(55)
+set V_(56) 2.0741331014463182
+$vehicle_(56) setdest [expr $val(x)-1] 10.0 $V_(56)
+set V_(57) 19.708228233859753
+$vehicle_(57) setdest [expr $val(x)-1] 10.0 $V_(57)
+set V_(58) 12.793957871021338
+$vehicle_(58) setdest [expr $val(x)-1] 10.0 $V_(58)
+set V_(59) 18.737648016370983
+$vehicle_(59) setdest [expr $val(x)-1] 10.0 $V_(59)
+set V_(60) 0.19841280079400336
+$vehicle_(60) setdest [expr $val(x)-1] 10.0 $V_(60)
+set V_(61) 1.2798287133784547
+$vehicle_(61) setdest [expr $val(x)-1] 10.0 $V_(61)
+set V_(62) 10.11695477624625
+$vehicle_(62) setdest [expr $val(x)-1] 10.0 $V_(62)
+set V_(63) 3.6403225476027745
+$vehicle_(63) setdest [expr $val(x)-1] 10.0 $V_(63)
+set V_(64) 0.2801718552692001
+$vehicle_(64) setdest [expr $val(x)-1] 10.0 $V_(64)
+set V_(65) 11.860273442639064
+$vehicle_(65) setdest [expr $val(x)-1] 10.0 $V_(65)
+set V_(66) 5.644670217304482
+$vehicle_(66) setdest [expr $val(x)-1] 10.0 $V_(66)
+set V_(67) 19.69024945884786
+$vehicle_(67) setdest [expr $val(x)-1] 10.0 $V_(67)
+set V_(68) 9.23966640604588
+$vehicle_(68) setdest [expr $val(x)-1] 10.0 $V_(68)
+set V_(69) 6.274563010416747
+$vehicle_(69) setdest [expr $val(x)-1] 10.0 $V_(69)
+set V_(70) 0.8439149617685193
+$vehicle_(70) setdest [expr $val(x)-1] 10.0 $V_(70)
+set V_(71) 16.072962448355156
+$vehicle_(71) setdest [expr $val(x)-1] 10.0 $V_(71)
+set V_(72) 7.626349139657318
+$vehicle_(72) setdest [expr $val(x)-1] 10.0 $V_(72)
+set V_(73) 6.431471974891587
+$vehicle_(73) setdest [expr $val(x)-1] 10.0 $V_(73)
+set V_(74) 9.150157152358393
+$vehicle_(74) setdest [expr $val(x)-1] 10.0 $V_(74)
+set V_(75) 18.097363337407575
+$vehicle_(75) setdest [expr $val(x)-1] 10.0 $V_(75)
+set V_(76) 7.851963845861696
+$vehicle_(76) setdest [expr $val(x)-1] 10.0 $V_(76)
+set V_(77) 11.264867394811374
+$vehicle_(77) setdest [expr $val(x)-1] 10.0 $V_(77)
+set V_(78) 18.33167717567013
+$vehicle_(78) setdest [expr $val(x)-1] 10.0 $V_(78)
+set V_(79) 6.4109987930677015
+$vehicle_(79) setdest [expr $val(x)-1] 10.0 $V_(79)
+set V_(80) 11.653313637408447
+$vehicle_(80) setdest [expr $val(x)-1] 10.0 $V_(80)
+set V_(81) 13.769849461216639
+$vehicle_(81) setdest [expr $val(x)-1] 10.0 $V_(81)
+set V_(82) 0.5541603813783813
+$vehicle_(82) setdest [expr $val(x)-1] 10.0 $V_(82)
+set V_(83) 17.896646895799442
+$vehicle_(83) setdest [expr $val(x)-1] 10.0 $V_(83)
+set V_(84) 8.242844242408744
+$vehicle_(84) setdest [expr $val(x)-1] 10.0 $V_(84)
+set V_(85) 11.049852328064805
+$vehicle_(85) setdest [expr $val(x)-1] 10.0 $V_(85)
+set V_(86) 16.652694584715537
+$vehicle_(86) setdest [expr $val(x)-1] 10.0 $V_(86)
+set V_(87) 9.293300958189532
+$vehicle_(87) setdest [expr $val(x)-1] 10.0 $V_(87)
+set V_(88) 12.984068174491929
+$vehicle_(88) setdest [expr $val(x)-1] 10.0 $V_(88)
+set V_(89) 13.075996011891526
+$vehicle_(89) setdest [expr $val(x)-1] 10.0 $V_(89)
+set V_(90) 8.559532736620039
+$vehicle_(90) setdest [expr $val(x)-1] 10.0 $V_(90)
+set V_(91) 15.932302102333315
+$vehicle_(91) setdest [expr $val(x)-1] 10.0 $V_(91)
+set V_(92) 7.932779030763797
+$vehicle_(92) setdest [expr $val(x)-1] 10.0 $V_(92)
+set V_(93) 3.770146497312734
+$vehicle_(93) setdest [expr $val(x)-1] 10.0 $V_(93)
+set V_(94) 14.402390253069804
+$vehicle_(94) setdest [expr $val(x)-1] 10.0 $V_(94)
+set V_(95) 7.4520203443659945
+$vehicle_(95) setdest [expr $val(x)-1] 10.0 $V_(95)
+set V_(96) 10.213899117430783
+$vehicle_(96) setdest [expr $val(x)-1] 10.0 $V_(96)
+set V_(97) 4.058281607634624
+$vehicle_(97) setdest [expr $val(x)-1] 10.0 $V_(97)
+set V_(98) 14.479456952657323
+$vehicle_(98) setdest [expr $val(x)-1] 10.0 $V_(98)
+set V_(99) 9.952146415459687
+$vehicle_(99) setdest [expr $val(x)-1] 10.0 $V_(99)
+set V_(100) 1.957721701996591
+$vehicle_(100) setdest [expr $val(x)-1] 10.0 $V_(100)
+set V_(101) 10.700932296583616
+$vehicle_(101) setdest [expr $val(x)-1] 10.0 $V_(101)
+set V_(102) 3.1337034384925944
+$vehicle_(102) setdest [expr $val(x)-1] 10.0 $V_(102)
+set V_(103) 9.7713094275099
+$vehicle_(103) setdest [expr $val(x)-1] 10.0 $V_(103)
+set V_(104) 6.3982016692962755
+$vehicle_(104) setdest [expr $val(x)-1] 10.0 $V_(104)
+set V_(105) 16.99261497168818
+$vehicle_(105) setdest [expr $val(x)-1] 10.0 $V_(105)
+set V_(106) 1.4904719386640441
+$vehicle_(106) setdest [expr $val(x)-1] 10.0 $V_(106)
+set V_(107) 17.91938830544578
+$vehicle_(107) setdest [expr $val(x)-1] 10.0 $V_(107)
+set V_(108) 8.739869158510722
+$vehicle_(108) setdest [expr $val(x)-1] 10.0 $V_(108)
+set V_(109) 1.8323313993447155
+$vehicle_(109) setdest [expr $val(x)-1] 10.0 $V_(109)
+set V_(110) 19.08875016781707
+$vehicle_(110) setdest [expr $val(x)-1] 10.0 $V_(110)
+set V_(111) 16.16855345184753
+$vehicle_(111) setdest [expr $val(x)-1] 10.0 $V_(111)
+set V_(112) 17.528833851335875
+$vehicle_(112) setdest [expr $val(x)-1] 10.0 $V_(112)
+set V_(113) 2.2023654202685505
+$vehicle_(113) setdest [expr $val(x)-1] 10.0 $V_(113)
+set V_(114) 18.627925644297793
+$vehicle_(114) setdest [expr $val(x)-1] 10.0 $V_(114)
+set V_(115) 5.90471676602067
+$vehicle_(115) setdest [expr $val(x)-1] 10.0 $V_(115)
+set V_(116) 2.5172633335906403
+$vehicle_(116) setdest [expr $val(x)-1] 10.0 $V_(116)
+set V_(117) 0.7527697914016929
+$vehicle_(117) setdest [expr $val(x)-1] 10.0 $V_(117)
+set V_(118) 17.368230934613884
+$vehicle_(118) setdest [expr $val(x)-1] 10.0 $V_(118)
+set V_(119) 19.06373208269231
+$vehicle_(119) setdest [expr $val(x)-1] 10.0 $V_(119)
+set V_(120) 8.389620110832261
+$vehicle_(120) setdest [expr $val(x)-1] 10.0 $V_(120)
+set V_(121) 4.97407769375026
+$vehicle_(121) setdest [expr $val(x)-1] 10.0 $V_(121)
+set V_(122) 11.164492465734222
+$vehicle_(122) setdest [expr $val(x)-1] 10.0 $V_(122)
+set V_(123) 6.824345118783446
+$vehicle_(123) setdest [expr $val(x)-1] 10.0 $V_(123)
+set V_(124) 10.2228510727731
+$vehicle_(124) setdest [expr $val(x)-1] 10.0 $V_(124)
+set V_(125) 7.350949323538741
+$vehicle_(125) setdest [expr $val(x)-1] 10.0 $V_(125)
+set V_(126) 12.679206813540539
+$vehicle_(126) setdest [expr $val(x)-1] 10.0 $V_(126)
+set V_(127) 16.20254480248219
+$vehicle_(127) setdest [expr $val(x)-1] 10.0 $V_(127)
+set V_(128) 6.181627060413081
+$vehicle_(128) setdest [expr $val(x)-1] 10.0 $V_(128)
+set V_(129) 16.924602096852254
+$vehicle_(129) setdest [expr $val(x)-1] 10.0 $V_(129)
+set V_(130) 14.012366092792083
+$vehicle_(130) setdest [expr $val(x)-1] 10.0 $V_(130)
+set V_(131) 17.289623857677043
+$vehicle_(131) setdest [expr $val(x)-1] 10.0 $V_(131)
+set V_(132) 15.703636740444615
+$vehicle_(132) setdest [expr $val(x)-1] 10.0 $V_(132)
+set V_(133) 1.8520427850025345
+$vehicle_(133) setdest [expr $val(x)-1] 10.0 $V_(133)
+set V_(134) 15.801870128753922
+$vehicle_(134) setdest [expr $val(x)-1] 10.0 $V_(134)
+set V_(135) 14.598919304984548
+$vehicle_(135) setdest [expr $val(x)-1] 10.0 $V_(135)
+set V_(136) 7.308846147489088
+$vehicle_(136) setdest [expr $val(x)-1] 10.0 $V_(136)
+set V_(137) 19.835266224902412
+$vehicle_(137) setdest [expr $val(x)-1] 10.0 $V_(137)
+set V_(138) 9.789761720383435
+$vehicle_(138) setdest [expr $val(x)-1] 10.0 $V_(138)
+set V_(139) 4.833849276265072
+$vehicle_(139) setdest [expr $val(x)-1] 10.0 $V_(139)
+set V_(140) 19.170544506201995
+$vehicle_(140) setdest [expr $val(x)-1] 10.0 $V_(140)
+set V_(141) 18.70374745483248
+$vehicle_(141) setdest [expr $val(x)-1] 10.0 $V_(141)
+set V_(142) 19.915932311990694
+$vehicle_(142) setdest [expr $val(x)-1] 10.0 $V_(142)
+set V_(143) 10.36252936963577
+$vehicle_(143) setdest [expr $val(x)-1] 10.0 $V_(143)
+set V_(144) 17.714894881192617
+$vehicle_(144) setdest [expr $val(x)-1] 10.0 $V_(144)
+set V_(145) 2.9687113495067496
+$vehicle_(145) setdest [expr $val(x)-1] 10.0 $V_(145)
+set V_(146) 18.192348210984143
+$vehicle_(146) setdest [expr $val(x)-1] 10.0 $V_(146)
+set V_(147) 2.7818985693568155
+$vehicle_(147) setdest [expr $val(x)-1] 10.0 $V_(147)
+set V_(148) 4.769621049087203
+$vehicle_(148) setdest [expr $val(x)-1] 10.0 $V_(148)
+set V_(149) 3.827812194989506
+$vehicle_(149) setdest [expr $val(x)-1] 10.0 $V_(149)
+set V_(150) 15.927258216937155
+$vehicle_(150) setdest [expr $val(x)-1] 10.0 $V_(150)
+set V_(151) 14.176949070511471
+$vehicle_(151) setdest [expr $val(x)-1] 10.0 $V_(151)
+set V_(152) 12.161372160552142
+$vehicle_(152) setdest [expr $val(x)-1] 10.0 $V_(152)
+set V_(153) 19.884021975873576
+$vehicle_(153) setdest [expr $val(x)-1] 10.0 $V_(153)
+set V_(154) 8.310241002115287
+$vehicle_(154) setdest [expr $val(x)-1] 10.0 $V_(154)
+set V_(155) 15.028307571893203
+$vehicle_(155) setdest [expr $val(x)-1] 10.0 $V_(155)
+set V_(156) 14.165197869407784
+$vehicle_(156) setdest [expr $val(x)-1] 10.0 $V_(156)
+set V_(157) 13.752673191297507
+$vehicle_(157) setdest [expr $val(x)-1] 10.0 $V_(157)
+set V_(158) 0.93537027055145
+$vehicle_(158) setdest [expr $val(x)-1] 10.0 $V_(158)
+set V_(159) 17.194065182534516
+$vehicle_(159) setdest [expr $val(x)-1] 10.0 $V_(159)
+set V_(160) 2.8384899110992845
+$vehicle_(160) setdest [expr $val(x)-1] 10.0 $V_(160)
+set V_(161) 15.7657688138984
+$vehicle_(161) setdest [expr $val(x)-1] 10.0 $V_(161)
+set V_(162) 10.531169341984805
+$vehicle_(162) setdest [expr $val(x)-1] 10.0 $V_(162)
+set V_(163) 17.98942555192923
+$vehicle_(163) setdest [expr $val(x)-1] 10.0 $V_(163)
+set V_(164) 9.025644393288978
+$vehicle_(164) setdest [expr $val(x)-1] 10.0 $V_(164)
+set V_(165) 0.14281385318458684
+$vehicle_(165) setdest [expr $val(x)-1] 10.0 $V_(165)
+set V_(166) 8.982440850111985
+$vehicle_(166) setdest [expr $val(x)-1] 10.0 $V_(166)
+set V_(167) 17.110375384474906
+$vehicle_(167) setdest [expr $val(x)-1] 10.0 $V_(167)
+set V_(168) 12.698601225448003
+$vehicle_(168) setdest [expr $val(x)-1] 10.0 $V_(168)
+set V_(169) 1.2825953143875646
+$vehicle_(169) setdest [expr $val(x)-1] 10.0 $V_(169)
+set V_(170) 9.670458035011553
+$vehicle_(170) setdest [expr $val(x)-1] 10.0 $V_(170)
+set V_(171) 11.9952618795212
+$vehicle_(171) setdest [expr $val(x)-1] 10.0 $V_(171)
+set V_(172) 10.302333890889344
+$vehicle_(172) setdest [expr $val(x)-1] 10.0 $V_(172)
+set V_(173) 8.240480848994272
+$vehicle_(173) setdest [expr $val(x)-1] 10.0 $V_(173)
+set V_(174) 18.224413999036734
+$vehicle_(174) setdest [expr $val(x)-1] 10.0 $V_(174)
+set V_(175) 9.190793972337076
+$vehicle_(175) setdest [expr $val(x)-1] 10.0 $V_(175)
+set V_(176) 13.903258390913232
+$vehicle_(176) setdest [expr $val(x)-1] 10.0 $V_(176)
+set V_(177) 13.990968757584486
+$vehicle_(177) setdest [expr $val(x)-1] 10.0 $V_(177)
+set V_(178) 5.968435641253396
+$vehicle_(178) setdest [expr $val(x)-1] 10.0 $V_(178)
+set V_(179) 19.386660329458678
+$vehicle_(179) setdest [expr $val(x)-1] 10.0 $V_(179)
+set V_(180) 7.192444899764148
+$vehicle_(180) setdest [expr $val(x)-1] 10.0 $V_(180)
+set V_(181) 2.7353775993067475
+$vehicle_(181) setdest [expr $val(x)-1] 10.0 $V_(181)
+set V_(182) 13.664860714144185
+$vehicle_(182) setdest [expr $val(x)-1] 10.0 $V_(182)
+set V_(183) 12.005597898095075
+$vehicle_(183) setdest [expr $val(x)-1] 10.0 $V_(183)
+set V_(184) 16.774416380348722
+$vehicle_(184) setdest [expr $val(x)-1] 10.0 $V_(184)
+set V_(185) 13.2997214260165
+$vehicle_(185) setdest [expr $val(x)-1] 10.0 $V_(185)
+set V_(186) 15.595901413846033
+$vehicle_(186) setdest [expr $val(x)-1] 10.0 $V_(186)
+set V_(187) 11.583416286684422
+$vehicle_(187) setdest [expr $val(x)-1] 10.0 $V_(187)
+set V_(188) 13.676227177854127
+$vehicle_(188) setdest [expr $val(x)-1] 10.0 $V_(188)
+set V_(189) 19.57796258568032
+$vehicle_(189) setdest [expr $val(x)-1] 10.0 $V_(189)
+set V_(190) 9.592209662458693
+$vehicle_(190) setdest [expr $val(x)-1] 10.0 $V_(190)
+set V_(191) 2.646124565569934
+$vehicle_(191) setdest [expr $val(x)-1] 10.0 $V_(191)
+set V_(192) 19.64041742444554
+$vehicle_(192) setdest [expr $val(x)-1] 10.0 $V_(192)
+set V_(193) 0.011011342488072007
+$vehicle_(193) setdest [expr $val(x)-1] 10.0 $V_(193)
+set V_(194) 7.308272604228982
+$vehicle_(194) setdest [expr $val(x)-1] 10.0 $V_(194)
+set V_(195) 12.388969781121524
+$vehicle_(195) setdest [expr $val(x)-1] 10.0 $V_(195)
+set V_(196) 15.519355920665136
+$vehicle_(196) setdest [expr $val(x)-1] 10.0 $V_(196)
+set V_(197) 7.251973052195102
+$vehicle_(197) setdest [expr $val(x)-1] 10.0 $V_(197)
+set V_(198) 0.8609714183108652
+$vehicle_(198) setdest [expr $val(x)-1] 10.0 $V_(198)
+set V_(199) 1.1848614999787355
+$vehicle_(199) setdest [expr $val(x)-1] 10.0 $V_(199)
+set V_(200) 14.967371198589657
+$vehicle_(200) setdest [expr $val(x)-1] 10.0 $V_(200)
+set V_(201) 16.453319611576486
+$vehicle_(201) setdest [expr $val(x)-1] 10.0 $V_(201)
+set V_(202) 16.889040991998364
+$vehicle_(202) setdest [expr $val(x)-1] 10.0 $V_(202)
+set V_(203) 9.79729185592523
+$vehicle_(203) setdest [expr $val(x)-1] 10.0 $V_(203)
+set V_(204) 15.630998647756316
+$vehicle_(204) setdest [expr $val(x)-1] 10.0 $V_(204)
+set V_(205) 6.021806076569069
+$vehicle_(205) setdest [expr $val(x)-1] 10.0 $V_(205)
+set V_(206) 17.157579452384258
+$vehicle_(206) setdest [expr $val(x)-1] 10.0 $V_(206)
+set V_(207) 9.145541856147013
+$vehicle_(207) setdest [expr $val(x)-1] 10.0 $V_(207)
+set V_(208) 12.166561921183414
+$vehicle_(208) setdest [expr $val(x)-1] 10.0 $V_(208)
+set V_(209) 8.222116676676393
+$vehicle_(209) setdest [expr $val(x)-1] 10.0 $V_(209)
+set V_(210) 6.02315684189578
+$vehicle_(210) setdest [expr $val(x)-1] 10.0 $V_(210)
+set V_(211) 13.567597940936727
+$vehicle_(211) setdest [expr $val(x)-1] 10.0 $V_(211)
+set V_(212) 10.668218642113914
+$vehicle_(212) setdest [expr $val(x)-1] 10.0 $V_(212)
+set V_(213) 18.67037594910077
+$vehicle_(213) setdest [expr $val(x)-1] 10.0 $V_(213)
+set V_(214) 19.391478033399586
+$vehicle_(214) setdest [expr $val(x)-1] 10.0 $V_(214)
+set V_(215) 11.748876792205722
+$vehicle_(215) setdest [expr $val(x)-1] 10.0 $V_(215)
+set V_(216) 2.468508072400122
+$vehicle_(216) setdest [expr $val(x)-1] 10.0 $V_(216)
+set V_(217) 13.543819448332567
+$vehicle_(217) setdest [expr $val(x)-1] 10.0 $V_(217)
+set V_(218) 17.240973764132956
+$vehicle_(218) setdest [expr $val(x)-1] 10.0 $V_(218)
+set V_(219) 0.8325035001821535
+$vehicle_(219) setdest [expr $val(x)-1] 10.0 $V_(219)
+set V_(220) 16.77734307281873
+$vehicle_(220) setdest [expr $val(x)-1] 10.0 $V_(220)
+set V_(221) 11.24307491882566
+$vehicle_(221) setdest [expr $val(x)-1] 10.0 $V_(221)
+set V_(222) 2.3520768468206543
+$vehicle_(222) setdest [expr $val(x)-1] 10.0 $V_(222)
+set V_(223) 18.699544485217277
+$vehicle_(223) setdest [expr $val(x)-1] 10.0 $V_(223)
+set V_(224) 16.254293066266342
+$vehicle_(224) setdest [expr $val(x)-1] 10.0 $V_(224)
+set V_(225) 11.278661632129188
+$vehicle_(225) setdest [expr $val(x)-1] 10.0 $V_(225)
+set V_(226) 1.5733731275962648
+$vehicle_(226) setdest [expr $val(x)-1] 10.0 $V_(226)
+set V_(227) 17.005256370252248
+$vehicle_(227) setdest [expr $val(x)-1] 10.0 $V_(227)
+set V_(228) 7.362917151386837
+$vehicle_(228) setdest [expr $val(x)-1] 10.0 $V_(228)
+set V_(229) 7.313464142755746
+$vehicle_(229) setdest [expr $val(x)-1] 10.0 $V_(229)
+set V_(230) 12.772201150168701
+$vehicle_(230) setdest [expr $val(x)-1] 10.0 $V_(230)
+set V_(231) 3.2800678586331466
+$vehicle_(231) setdest [expr $val(x)-1] 10.0 $V_(231)
+set V_(232) 8.234800780679837
+$vehicle_(232) setdest [expr $val(x)-1] 10.0 $V_(232)
+set V_(233) 3.578109791699484
+$vehicle_(233) setdest [expr $val(x)-1] 10.0 $V_(233)
+set V_(234) 0.5586947966082101
+$vehicle_(234) setdest [expr $val(x)-1] 10.0 $V_(234)
+set V_(235) 4.25166359160321
+$vehicle_(235) setdest [expr $val(x)-1] 10.0 $V_(235)
+set V_(236) 10.77487379329609
+$vehicle_(236) setdest [expr $val(x)-1] 10.0 $V_(236)
+set V_(237) 4.286315788113422
+$vehicle_(237) setdest [expr $val(x)-1] 10.0 $V_(237)
+set V_(238) 16.938661292642855
+$vehicle_(238) setdest [expr $val(x)-1] 10.0 $V_(238)
+set V_(239) 4.517200052969448
+$vehicle_(239) setdest [expr $val(x)-1] 10.0 $V_(239)
+set V_(240) 10.868473831222815
+$vehicle_(240) setdest [expr $val(x)-1] 10.0 $V_(240)
+set V_(241) 14.21244196169443
+$vehicle_(241) setdest [expr $val(x)-1] 10.0 $V_(241)
+set V_(242) 9.24209954631262
+$vehicle_(242) setdest [expr $val(x)-1] 10.0 $V_(242)
+set V_(243) 14.792340742114956
+$vehicle_(243) setdest [expr $val(x)-1] 10.0 $V_(243)
+set V_(244) 0.8045393900200803
+$vehicle_(244) setdest [expr $val(x)-1] 10.0 $V_(244)
+set V_(245) 5.253635656626616
+$vehicle_(245) setdest [expr $val(x)-1] 10.0 $V_(245)
+set V_(246) 16.99056490520381
+$vehicle_(246) setdest [expr $val(x)-1] 10.0 $V_(246)
+set V_(247) 2.186444196173436
+$vehicle_(247) setdest [expr $val(x)-1] 10.0 $V_(247)
+set V_(248) 1.4082220858791916
+$vehicle_(248) setdest [expr $val(x)-1] 10.0 $V_(248)
+set V_(249) 8.584116130867848
+$vehicle_(249) setdest [expr $val(x)-1] 10.0 $V_(249)
+set V_(250) 11.807990970441825
+$vehicle_(250) setdest [expr $val(x)-1] 10.0 $V_(250)
+set V_(251) 11.300910962678849
+$vehicle_(251) setdest [expr $val(x)-1] 10.0 $V_(251)
+set V_(252) 17.880101139768428
+$vehicle_(252) setdest [expr $val(x)-1] 10.0 $V_(252)
+set V_(253) 4.919288919923838
+$vehicle_(253) setdest [expr $val(x)-1] 10.0 $V_(253)
+set V_(254) 0.04600020817836947
+$vehicle_(254) setdest [expr $val(x)-1] 10.0 $V_(254)
+set V_(255) 19.420333806636265
+$vehicle_(255) setdest [expr $val(x)-1] 10.0 $V_(255)
+set V_(256) 12.96810869424704
+$vehicle_(256) setdest [expr $val(x)-1] 10.0 $V_(256)
+set V_(257) 6.44256046028949
+$vehicle_(257) setdest [expr $val(x)-1] 10.0 $V_(257)
+set V_(258) 6.486114338917181
+$vehicle_(258) setdest [expr $val(x)-1] 10.0 $V_(258)
+set V_(259) 1.6637714023498562
+$vehicle_(259) setdest [expr $val(x)-1] 10.0 $V_(259)
+set V_(260) 3.852165035916979
+$vehicle_(260) setdest [expr $val(x)-1] 10.0 $V_(260)
+set V_(261) 13.107852821666592
+$vehicle_(261) setdest [expr $val(x)-1] 10.0 $V_(261)
+set V_(262) 9.297712401437398
+$vehicle_(262) setdest [expr $val(x)-1] 10.0 $V_(262)
+set V_(263) 12.68609785212751
+$vehicle_(263) setdest [expr $val(x)-1] 10.0 $V_(263)
+set V_(264) 5.000434720855617
+$vehicle_(264) setdest [expr $val(x)-1] 10.0 $V_(264)
+set V_(265) 3.3159975066706115
+$vehicle_(265) setdest [expr $val(x)-1] 10.0 $V_(265)
+set V_(266) 1.3719645403779746
+$vehicle_(266) setdest [expr $val(x)-1] 10.0 $V_(266)
+set V_(267) 0.36706336254358707
+$vehicle_(267) setdest [expr $val(x)-1] 10.0 $V_(267)
+set V_(268) 18.26002563999009
+$vehicle_(268) setdest [expr $val(x)-1] 10.0 $V_(268)
+set V_(269) 4.37332564098033
+$vehicle_(269) setdest [expr $val(x)-1] 10.0 $V_(269)
+set V_(270) 11.218397262868166
+$vehicle_(270) setdest [expr $val(x)-1] 10.0 $V_(270)
+set V_(271) 13.898335158479131
+$vehicle_(271) setdest [expr $val(x)-1] 10.0 $V_(271)
+set V_(272) 13.573848613096889
+$vehicle_(272) setdest [expr $val(x)-1] 10.0 $V_(272)
+set V_(273) 1.6759404252896726
+$vehicle_(273) setdest [expr $val(x)-1] 10.0 $V_(273)
+set V_(274) 7.802128166682212
+$vehicle_(274) setdest [expr $val(x)-1] 10.0 $V_(274)
+set V_(275) 13.776458652406692
+$vehicle_(275) setdest [expr $val(x)-1] 10.0 $V_(275)
+set V_(276) 8.969273310911463
+$vehicle_(276) setdest [expr $val(x)-1] 10.0 $V_(276)
+set V_(277) 7.223310855438152
+$vehicle_(277) setdest [expr $val(x)-1] 10.0 $V_(277)
+set V_(278) 18.016243903971624
+$vehicle_(278) setdest [expr $val(x)-1] 10.0 $V_(278)
+set V_(279) 14.432325022514991
+$vehicle_(279) setdest [expr $val(x)-1] 10.0 $V_(279)
+set V_(280) 6.843109789019566
+$vehicle_(280) setdest [expr $val(x)-1] 10.0 $V_(280)
+set V_(281) 17.84997506163046
+$vehicle_(281) setdest [expr $val(x)-1] 10.0 $V_(281)
+set V_(282) 2.9251759302319202
+$vehicle_(282) setdest [expr $val(x)-1] 10.0 $V_(282)
+set V_(283) 11.575397093736608
+$vehicle_(283) setdest [expr $val(x)-1] 10.0 $V_(283)
+set V_(284) 15.071365828838575
+$vehicle_(284) setdest [expr $val(x)-1] 10.0 $V_(284)
+set V_(285) 11.474308629379117
+$vehicle_(285) setdest [expr $val(x)-1] 10.0 $V_(285)
+set V_(286) 9.481342016620415
+$vehicle_(286) setdest [expr $val(x)-1] 10.0 $V_(286)
+set V_(287) 5.803594103693608
+$vehicle_(287) setdest [expr $val(x)-1] 10.0 $V_(287)
+set V_(288) 16.101121399624702
+$vehicle_(288) setdest [expr $val(x)-1] 10.0 $V_(288)
+set V_(289) 15.698462180929944
+$vehicle_(289) setdest [expr $val(x)-1] 10.0 $V_(289)
+set V_(290) 18.10874313715347
+$vehicle_(290) setdest [expr $val(x)-1] 10.0 $V_(290)
+set V_(291) 11.627394393101655
+$vehicle_(291) setdest [expr $val(x)-1] 10.0 $V_(291)
+set V_(292) 4.935783677797863
+$vehicle_(292) setdest [expr $val(x)-1] 10.0 $V_(292)
+set V_(293) 17.253732224710813
+$vehicle_(293) setdest [expr $val(x)-1] 10.0 $V_(293)
+set V_(294) 3.363583920680473
+$vehicle_(294) setdest [expr $val(x)-1] 10.0 $V_(294)
+set V_(295) 16.779373154482794
+$vehicle_(295) setdest [expr $val(x)-1] 10.0 $V_(295)
+set V_(296) 17.803870044572722
+$vehicle_(296) setdest [expr $val(x)-1] 10.0 $V_(296)
+set V_(297) 3.0707795562010354
+$vehicle_(297) setdest [expr $val(x)-1] 10.0 $V_(297)
+set V_(298) 14.823413960150663
+$vehicle_(298) setdest [expr $val(x)-1] 10.0 $V_(298)
+set V_(299) 10.528048315991708
+$vehicle_(299) setdest [expr $val(x)-1] 10.0 $V_(299)
+set V_(300) 17.30540471712082
+$vehicle_(300) setdest [expr $val(x)-1] 10.0 $V_(300)
+set V_(301) 14.16427982085035
+$vehicle_(301) setdest [expr $val(x)-1] 10.0 $V_(301)
+set V_(302) 8.422687922402936
+$vehicle_(302) setdest [expr $val(x)-1] 10.0 $V_(302)
+set V_(303) 11.687559342597172
+$vehicle_(303) setdest [expr $val(x)-1] 10.0 $V_(303)
+set V_(304) 6.958885558790011
+$vehicle_(304) setdest [expr $val(x)-1] 10.0 $V_(304)
+set V_(305) 12.056727286079855
+$vehicle_(305) setdest [expr $val(x)-1] 10.0 $V_(305)
+set V_(306) 14.644036058190235
+$vehicle_(306) setdest [expr $val(x)-1] 10.0 $V_(306)
+set V_(307) 17.11236729803361
+$vehicle_(307) setdest [expr $val(x)-1] 10.0 $V_(307)
+set V_(308) 18.325711992468488
+$vehicle_(308) setdest [expr $val(x)-1] 10.0 $V_(308)
+set V_(309) 4.1262854504295055
+$vehicle_(309) setdest [expr $val(x)-1] 10.0 $V_(309)
+set V_(310) 19.290965395673773
+$vehicle_(310) setdest [expr $val(x)-1] 10.0 $V_(310)
+set V_(311) 19.688814595873293
+$vehicle_(311) setdest [expr $val(x)-1] 10.0 $V_(311)
+set V_(312) 7.267855221617811
+$vehicle_(312) setdest [expr $val(x)-1] 10.0 $V_(312)
+set V_(313) 9.048728431026516
+$vehicle_(313) setdest [expr $val(x)-1] 10.0 $V_(313)
+set V_(314) 15.009094548870983
+$vehicle_(314) setdest [expr $val(x)-1] 10.0 $V_(314)
+set V_(315) 11.183043616648778
+$vehicle_(315) setdest [expr $val(x)-1] 10.0 $V_(315)
+set V_(316) 12.398465201038128
+$vehicle_(316) setdest [expr $val(x)-1] 10.0 $V_(316)
+set V_(317) 6.413671043756295
+$vehicle_(317) setdest [expr $val(x)-1] 10.0 $V_(317)
+set V_(318) 17.28945377469106
+$vehicle_(318) setdest [expr $val(x)-1] 10.0 $V_(318)
+set V_(319) 9.777424514598511
+$vehicle_(319) setdest [expr $val(x)-1] 10.0 $V_(319)
+set V_(320) 8.414010423374789
+$vehicle_(320) setdest [expr $val(x)-1] 10.0 $V_(320)
+set V_(321) 5.63044342184583
+$vehicle_(321) setdest [expr $val(x)-1] 10.0 $V_(321)
+set V_(322) 7.378765771160081
+$vehicle_(322) setdest [expr $val(x)-1] 10.0 $V_(322)
+set V_(323) 14.725303751848939
+$vehicle_(323) setdest [expr $val(x)-1] 10.0 $V_(323)
+set V_(324) 9.750460737610439
+$vehicle_(324) setdest [expr $val(x)-1] 10.0 $V_(324)
+set V_(325) 8.399129398134821
+$vehicle_(325) setdest [expr $val(x)-1] 10.0 $V_(325)
+set V_(326) 6.338049046028271
+$vehicle_(326) setdest [expr $val(x)-1] 10.0 $V_(326)
+set V_(327) 11.27654127852253
+$vehicle_(327) setdest [expr $val(x)-1] 10.0 $V_(327)
+set V_(328) 5.884916117662509
+$vehicle_(328) setdest [expr $val(x)-1] 10.0 $V_(328)
+set V_(329) 6.3074254116737105
+$vehicle_(329) setdest [expr $val(x)-1] 10.0 $V_(329)
+set V_(330) 19.432278503243257
+$vehicle_(330) setdest [expr $val(x)-1] 10.0 $V_(330)
+set V_(331) 7.873951652048188
+$vehicle_(331) setdest [expr $val(x)-1] 10.0 $V_(331)
+set V_(332) 18.608006216671086
+$vehicle_(332) setdest [expr $val(x)-1] 10.0 $V_(332)
+set V_(333) 10.524159916024008
+$vehicle_(333) setdest [expr $val(x)-1] 10.0 $V_(333)
+set V_(334) 18.100251136968375
+$vehicle_(334) setdest [expr $val(x)-1] 10.0 $V_(334)
+set V_(335) 4.593436136449083
+$vehicle_(335) setdest [expr $val(x)-1] 10.0 $V_(335)
+set V_(336) 3.72128243538961
+$vehicle_(336) setdest [expr $val(x)-1] 10.0 $V_(336)
+set V_(337) 14.0954411348718
+$vehicle_(337) setdest [expr $val(x)-1] 10.0 $V_(337)
+set V_(338) 7.945206202416248
+$vehicle_(338) setdest [expr $val(x)-1] 10.0 $V_(338)
+set V_(339) 6.898235000389922
+$vehicle_(339) setdest [expr $val(x)-1] 10.0 $V_(339)
+set V_(340) 14.867728287788896
+$vehicle_(340) setdest [expr $val(x)-1] 10.0 $V_(340)
+set V_(341) 19.009581712730686
+$vehicle_(341) setdest [expr $val(x)-1] 10.0 $V_(341)
+set V_(342) 5.503159513357392
+$vehicle_(342) setdest [expr $val(x)-1] 10.0 $V_(342)
+set V_(343) 12.00038803488056
+$vehicle_(343) setdest [expr $val(x)-1] 10.0 $V_(343)
+set V_(344) 5.582430725994971
+$vehicle_(344) setdest [expr $val(x)-1] 10.0 $V_(344)
+set V_(345) 19.98208518903415
+$vehicle_(345) setdest [expr $val(x)-1] 10.0 $V_(345)
+set V_(346) 13.987317186706205
+$vehicle_(346) setdest [expr $val(x)-1] 10.0 $V_(346)
+set V_(347) 6.470161671360907
+$vehicle_(347) setdest [expr $val(x)-1] 10.0 $V_(347)
+set V_(348) 7.154348729192779
+$vehicle_(348) setdest [expr $val(x)-1] 10.0 $V_(348)
+set V_(349) 4.822152047093759
+$vehicle_(349) setdest [expr $val(x)-1] 10.0 $V_(349)
+set V_(350) 8.773334619036445
+$vehicle_(350) setdest [expr $val(x)-1] 10.0 $V_(350)
+set V_(351) 3.206829950299417
+$vehicle_(351) setdest [expr $val(x)-1] 10.0 $V_(351)
+set V_(352) 4.519032358764319
+$vehicle_(352) setdest [expr $val(x)-1] 10.0 $V_(352)
+set V_(353) 7.277307386165299
+$vehicle_(353) setdest [expr $val(x)-1] 10.0 $V_(353)
+set V_(354) 17.081604387999437
+$vehicle_(354) setdest [expr $val(x)-1] 10.0 $V_(354)
+set V_(355) 13.481884701273742
+$vehicle_(355) setdest [expr $val(x)-1] 10.0 $V_(355)
+set V_(356) 0.15604450748582854
+$vehicle_(356) setdest [expr $val(x)-1] 10.0 $V_(356)
+set V_(357) 12.412912738703888
+$vehicle_(357) setdest [expr $val(x)-1] 10.0 $V_(357)
+set V_(358) 3.129151592253192
+$vehicle_(358) setdest [expr $val(x)-1] 10.0 $V_(358)
+set V_(359) 15.488380226617306
+$vehicle_(359) setdest [expr $val(x)-1] 10.0 $V_(359)
+set V_(360) 6.843747930360591
+$vehicle_(360) setdest [expr $val(x)-1] 10.0 $V_(360)
+set V_(361) 6.868483920454171
+$vehicle_(361) setdest [expr $val(x)-1] 10.0 $V_(361)
+set V_(362) 9.96512412956159
+$vehicle_(362) setdest [expr $val(x)-1] 10.0 $V_(362)
+set V_(363) 4.677787581749893
+$vehicle_(363) setdest [expr $val(x)-1] 10.0 $V_(363)
+set V_(364) 4.128023063148463
+$vehicle_(364) setdest [expr $val(x)-1] 10.0 $V_(364)
+set V_(365) 6.7428882037787226
+$vehicle_(365) setdest [expr $val(x)-1] 10.0 $V_(365)
+set V_(366) 2.270279325470337
+$vehicle_(366) setdest [expr $val(x)-1] 10.0 $V_(366)
+set V_(367) 13.138388081968005
+$vehicle_(367) setdest [expr $val(x)-1] 10.0 $V_(367)
+set V_(368) 10.490392811054763
+$vehicle_(368) setdest [expr $val(x)-1] 10.0 $V_(368)
+set V_(369) 4.395651253645109
+$vehicle_(369) setdest [expr $val(x)-1] 10.0 $V_(369)
+set V_(370) 0.5922639185989476
+$vehicle_(370) setdest [expr $val(x)-1] 10.0 $V_(370)
+set V_(371) 5.366888646819456
+$vehicle_(371) setdest [expr $val(x)-1] 10.0 $V_(371)
+set V_(372) 3.4549334271521825
+$vehicle_(372) setdest [expr $val(x)-1] 10.0 $V_(372)
+set V_(373) 12.111765074807119
+$vehicle_(373) setdest [expr $val(x)-1] 10.0 $V_(373)
+set V_(374) 16.804897147868957
+$vehicle_(374) setdest [expr $val(x)-1] 10.0 $V_(374)
+set V_(375) 16.007604940155744
+$vehicle_(375) setdest [expr $val(x)-1] 10.0 $V_(375)
+set V_(376) 3.2522535465335567
+$vehicle_(376) setdest [expr $val(x)-1] 10.0 $V_(376)
+set V_(377) 5.362535104558193
+$vehicle_(377) setdest [expr $val(x)-1] 10.0 $V_(377)
+set V_(378) 13.021069749828216
+$vehicle_(378) setdest [expr $val(x)-1] 10.0 $V_(378)
+set V_(379) 11.481196511781409
+$vehicle_(379) setdest [expr $val(x)-1] 10.0 $V_(379)
+set V_(380) 2.1627427892080786
+$vehicle_(380) setdest [expr $val(x)-1] 10.0 $V_(380)
+set V_(381) 1.3051736088152555
+$vehicle_(381) setdest [expr $val(x)-1] 10.0 $V_(381)
+set V_(382) 11.755283538068873
+$vehicle_(382) setdest [expr $val(x)-1] 10.0 $V_(382)
+set V_(383) 11.89762580110787
+$vehicle_(383) setdest [expr $val(x)-1] 10.0 $V_(383)
+set V_(384) 11.29017732248046
+$vehicle_(384) setdest [expr $val(x)-1] 10.0 $V_(384)
+set V_(385) 9.198990314516298
+$vehicle_(385) setdest [expr $val(x)-1] 10.0 $V_(385)
+set V_(386) 3.8232524636686094
+$vehicle_(386) setdest [expr $val(x)-1] 10.0 $V_(386)
+set V_(387) 2.2456333972895037
+$vehicle_(387) setdest [expr $val(x)-1] 10.0 $V_(387)
+set V_(388) 9.270698377913636
+$vehicle_(388) setdest [expr $val(x)-1] 10.0 $V_(388)
+set V_(389) 18.576196826054577
+$vehicle_(389) setdest [expr $val(x)-1] 10.0 $V_(389)
+set V_(390) 12.282401216304295
+$vehicle_(390) setdest [expr $val(x)-1] 10.0 $V_(390)
+set V_(391) 12.573707388260246
+$vehicle_(391) setdest [expr $val(x)-1] 10.0 $V_(391)
+set V_(392) 13.301064224212887
+$vehicle_(392) setdest [expr $val(x)-1] 10.0 $V_(392)
+set V_(393) 8.290488296567782
+$vehicle_(393) setdest [expr $val(x)-1] 10.0 $V_(393)
+set V_(394) 15.658502313919147
+$vehicle_(394) setdest [expr $val(x)-1] 10.0 $V_(394)
+set V_(395) 15.725160830005061
+$vehicle_(395) setdest [expr $val(x)-1] 10.0 $V_(395)
+set V_(396) 11.87400352826389
+$vehicle_(396) setdest [expr $val(x)-1] 10.0 $V_(396)
+set V_(397) 4.976735779603157
+$vehicle_(397) setdest [expr $val(x)-1] 10.0 $V_(397)
+set V_(398) 11.770094993172007
+$vehicle_(398) setdest [expr $val(x)-1] 10.0 $V_(398)
+set V_(399) 18.162600581701792
+$vehicle_(399) setdest [expr $val(x)-1] 10.0 $V_(399)
+set V_(400) 0.7373837535138494
+$vehicle_(400) setdest [expr $val(x)-1] 10.0 $V_(400)
+set V_(401) 12.990263518925538
+$vehicle_(401) setdest [expr $val(x)-1] 10.0 $V_(401)
+set V_(402) 14.653735013825251
+$vehicle_(402) setdest [expr $val(x)-1] 10.0 $V_(402)
+set V_(403) 4.514721722061131
+$vehicle_(403) setdest [expr $val(x)-1] 10.0 $V_(403)
+set V_(404) 8.84783271417368
+$vehicle_(404) setdest [expr $val(x)-1] 10.0 $V_(404)
+set V_(405) 19.554350788204285
+$vehicle_(405) setdest [expr $val(x)-1] 10.0 $V_(405)
+set V_(406) 1.4095411783166556
+$vehicle_(406) setdest [expr $val(x)-1] 10.0 $V_(406)
+set V_(407) 19.701015050877434
+$vehicle_(407) setdest [expr $val(x)-1] 10.0 $V_(407)
+set V_(408) 9.468342801743585
+$vehicle_(408) setdest [expr $val(x)-1] 10.0 $V_(408)
+set V_(409) 8.629756177546117
+$vehicle_(409) setdest [expr $val(x)-1] 10.0 $V_(409)
+set V_(410) 3.2278934980143403
+$vehicle_(410) setdest [expr $val(x)-1] 10.0 $V_(410)
+set V_(411) 13.837636449923114
+$vehicle_(411) setdest [expr $val(x)-1] 10.0 $V_(411)
+set V_(412) 3.063306523861624
+$vehicle_(412) setdest [expr $val(x)-1] 10.0 $V_(412)
+set V_(413) 14.930206883822304
+$vehicle_(413) setdest [expr $val(x)-1] 10.0 $V_(413)
+set V_(414) 5.424561200880069
+$vehicle_(414) setdest [expr $val(x)-1] 10.0 $V_(414)
+set V_(415) 14.600345698060444
+$vehicle_(415) setdest [expr $val(x)-1] 10.0 $V_(415)
+set V_(416) 13.27332669038109
+$vehicle_(416) setdest [expr $val(x)-1] 10.0 $V_(416)
+set V_(417) 15.542968617745741
+$vehicle_(417) setdest [expr $val(x)-1] 10.0 $V_(417)
+set V_(418) 5.002932096471639
+$vehicle_(418) setdest [expr $val(x)-1] 10.0 $V_(418)
+set V_(419) 9.31806469971619
+$vehicle_(419) setdest [expr $val(x)-1] 10.0 $V_(419)
+set V_(420) 15.006057763241849
+$vehicle_(420) setdest [expr $val(x)-1] 10.0 $V_(420)
+set V_(421) 10.773748819669082
+$vehicle_(421) setdest [expr $val(x)-1] 10.0 $V_(421)
+set V_(422) 11.078430645487025
+$vehicle_(422) setdest [expr $val(x)-1] 10.0 $V_(422)
+set V_(423) 14.79328225366056
+$vehicle_(423) setdest [expr $val(x)-1] 10.0 $V_(423)
+set V_(424) 14.55824271325519
+$vehicle_(424) setdest [expr $val(x)-1] 10.0 $V_(424)
+set V_(425) 8.12036327204537
+$vehicle_(425) setdest [expr $val(x)-1] 10.0 $V_(425)
+set V_(426) 3.4416078050706744
+$vehicle_(426) setdest [expr $val(x)-1] 10.0 $V_(426)
+set V_(427) 6.693168464430414
+$vehicle_(427) setdest [expr $val(x)-1] 10.0 $V_(427)
+set V_(428) 5.688007728023194
+$vehicle_(428) setdest [expr $val(x)-1] 10.0 $V_(428)
+set V_(429) 13.689728674774777
+$vehicle_(429) setdest [expr $val(x)-1] 10.0 $V_(429)
+set V_(430) 7.602807829488456
+$vehicle_(430) setdest [expr $val(x)-1] 10.0 $V_(430)
+set V_(431) 12.327930591497516
+$vehicle_(431) setdest [expr $val(x)-1] 10.0 $V_(431)
+set V_(432) 12.685389728766081
+$vehicle_(432) setdest [expr $val(x)-1] 10.0 $V_(432)
+set V_(433) 13.907925783617738
+$vehicle_(433) setdest [expr $val(x)-1] 10.0 $V_(433)
+set V_(434) 0.8527022195858525
+$vehicle_(434) setdest [expr $val(x)-1] 10.0 $V_(434)
+set V_(435) 0.7305970497821779
+$vehicle_(435) setdest [expr $val(x)-1] 10.0 $V_(435)
+set V_(436) 1.7429818925109353
+$vehicle_(436) setdest [expr $val(x)-1] 10.0 $V_(436)
+set V_(437) 17.033210655798218
+$vehicle_(437) setdest [expr $val(x)-1] 10.0 $V_(437)
+set V_(438) 13.189407313781693
+$vehicle_(438) setdest [expr $val(x)-1] 10.0 $V_(438)
+set V_(439) 12.175065167955449
+$vehicle_(439) setdest [expr $val(x)-1] 10.0 $V_(439)
+set V_(440) 15.30747414664863
+$vehicle_(440) setdest [expr $val(x)-1] 10.0 $V_(440)
+set V_(441) 18.76702152956335
+$vehicle_(441) setdest [expr $val(x)-1] 10.0 $V_(441)
+set V_(442) 9.404299562759666
+$vehicle_(442) setdest [expr $val(x)-1] 10.0 $V_(442)
+set V_(443) 15.616916808155892
+$vehicle_(443) setdest [expr $val(x)-1] 10.0 $V_(443)
+set V_(444) 0.5967895692403613
+$vehicle_(444) setdest [expr $val(x)-1] 10.0 $V_(444)
+set V_(445) 19.16818343371949
+$vehicle_(445) setdest [expr $val(x)-1] 10.0 $V_(445)
+set V_(446) 14.185040535777748
+$vehicle_(446) setdest [expr $val(x)-1] 10.0 $V_(446)
+set V_(447) 7.014146070530993
+$vehicle_(447) setdest [expr $val(x)-1] 10.0 $V_(447)
+set V_(448) 3.0964076294956855
+$vehicle_(448) setdest [expr $val(x)-1] 10.0 $V_(448)
+set V_(449) 9.11066429600516
+$vehicle_(449) setdest [expr $val(x)-1] 10.0 $V_(449)
+set V_(450) 10.785749586758325
+$vehicle_(450) setdest [expr $val(x)-1] 10.0 $V_(450)
+set V_(451) 4.08261733525225
+$vehicle_(451) setdest [expr $val(x)-1] 10.0 $V_(451)
+set V_(452) 18.602387697729
+$vehicle_(452) setdest [expr $val(x)-1] 10.0 $V_(452)
+set V_(453) 3.685396420471494
+$vehicle_(453) setdest [expr $val(x)-1] 10.0 $V_(453)
+set V_(454) 5.630650893986209
+$vehicle_(454) setdest [expr $val(x)-1] 10.0 $V_(454)
+set V_(455) 13.763716056377056
+$vehicle_(455) setdest [expr $val(x)-1] 10.0 $V_(455)
+set V_(456) 3.2574971678379305
+$vehicle_(456) setdest [expr $val(x)-1] 10.0 $V_(456)
+set V_(457) 7.2318305346353196
+$vehicle_(457) setdest [expr $val(x)-1] 10.0 $V_(457)
+set V_(458) 6.158932584949676
+$vehicle_(458) setdest [expr $val(x)-1] 10.0 $V_(458)
+set V_(459) 7.529310739390807
+$vehicle_(459) setdest [expr $val(x)-1] 10.0 $V_(459)
+set V_(460) 10.03076210816186
+$vehicle_(460) setdest [expr $val(x)-1] 10.0 $V_(460)
+set V_(461) 10.095052260303891
+$vehicle_(461) setdest [expr $val(x)-1] 10.0 $V_(461)
+set V_(462) 7.284970390170924
+$vehicle_(462) setdest [expr $val(x)-1] 10.0 $V_(462)
+set V_(463) 16.621811811413064
+$vehicle_(463) setdest [expr $val(x)-1] 10.0 $V_(463)
+set V_(464) 12.219669256497866
+$vehicle_(464) setdest [expr $val(x)-1] 10.0 $V_(464)
+set V_(465) 0.7394357175295907
+$vehicle_(465) setdest [expr $val(x)-1] 10.0 $V_(465)
+set V_(466) 3.0394590206275707
+$vehicle_(466) setdest [expr $val(x)-1] 10.0 $V_(466)
+set V_(467) 14.424755569081677
+$vehicle_(467) setdest [expr $val(x)-1] 10.0 $V_(467)
+set V_(468) 9.808143289052643
+$vehicle_(468) setdest [expr $val(x)-1] 10.0 $V_(468)
+set V_(469) 8.509978050412402
+$vehicle_(469) setdest [expr $val(x)-1] 10.0 $V_(469)
+set V_(470) 14.273417856978076
+$vehicle_(470) setdest [expr $val(x)-1] 10.0 $V_(470)
+set V_(471) 6.382006449731463
+$vehicle_(471) setdest [expr $val(x)-1] 10.0 $V_(471)
+set V_(472) 12.892337787933133
+$vehicle_(472) setdest [expr $val(x)-1] 10.0 $V_(472)
+set V_(473) 12.117603984688605
+$vehicle_(473) setdest [expr $val(x)-1] 10.0 $V_(473)
+set V_(474) 10.74842592399968
+$vehicle_(474) setdest [expr $val(x)-1] 10.0 $V_(474)
+set V_(475) 19.23132722422048
+$vehicle_(475) setdest [expr $val(x)-1] 10.0 $V_(475)
+set V_(476) 17.89018568335859
+$vehicle_(476) setdest [expr $val(x)-1] 10.0 $V_(476)
+set V_(477) 16.834896389755936
+$vehicle_(477) setdest [expr $val(x)-1] 10.0 $V_(477)
+set V_(478) 6.502866920071131
+$vehicle_(478) setdest [expr $val(x)-1] 10.0 $V_(478)
+set V_(479) 10.790713460557736
+$vehicle_(479) setdest [expr $val(x)-1] 10.0 $V_(479)
+set V_(480) 16.879549790694576
+$vehicle_(480) setdest [expr $val(x)-1] 10.0 $V_(480)
+set V_(481) 19.423851922458265
+$vehicle_(481) setdest [expr $val(x)-1] 10.0 $V_(481)
+set V_(482) 1.0753522832616969
+$vehicle_(482) setdest [expr $val(x)-1] 10.0 $V_(482)
+set V_(483) 9.133561519138118
+$vehicle_(483) setdest [expr $val(x)-1] 10.0 $V_(483)
+set V_(484) 8.163737227846667
+$vehicle_(484) setdest [expr $val(x)-1] 10.0 $V_(484)
+set V_(485) 3.977430840535068
+$vehicle_(485) setdest [expr $val(x)-1] 10.0 $V_(485)
+set V_(486) 5.982908938080622
+$vehicle_(486) setdest [expr $val(x)-1] 10.0 $V_(486)
+set V_(487) 15.711375231969766
+$vehicle_(487) setdest [expr $val(x)-1] 10.0 $V_(487)
+set V_(488) 7.042032188770923
+$vehicle_(488) setdest [expr $val(x)-1] 10.0 $V_(488)
+set V_(489) 4.141816624207257
+$vehicle_(489) setdest [expr $val(x)-1] 10.0 $V_(489)
+set V_(490) 15.792924074736867
+$vehicle_(490) setdest [expr $val(x)-1] 10.0 $V_(490)
+set V_(491) 10.830393967917615
+$vehicle_(491) setdest [expr $val(x)-1] 10.0 $V_(491)
+set V_(492) 9.766818772457157
+$vehicle_(492) setdest [expr $val(x)-1] 10.0 $V_(492)
+set V_(493) 7.596461089801522
+$vehicle_(493) setdest [expr $val(x)-1] 10.0 $V_(493)
+set V_(494) 16.19423445004333
+$vehicle_(494) setdest [expr $val(x)-1] 10.0 $V_(494)
+set V_(495) 1.8611608452042327
+$vehicle_(495) setdest [expr $val(x)-1] 10.0 $V_(495)
+set V_(496) 0.7977634281443136
+$vehicle_(496) setdest [expr $val(x)-1] 10.0 $V_(496)
+set V_(497) 7.204146636239783
+$vehicle_(497) setdest [expr $val(x)-1] 10.0 $V_(497)
+set V_(498) 7.664170114822426
+$vehicle_(498) setdest [expr $val(x)-1] 10.0 $V_(498)
+set V_(499) 14.657722503290868
+$vehicle_(499) setdest [expr $val(x)-1] 10.0 $V_(499)
+set V_(500) 13.717441733590174
+$vehicle_(500) setdest [expr $val(x)-1] 10.0 $V_(500)
+set V_(501) 19.90345479607989
+$vehicle_(501) setdest [expr $val(x)-1] 10.0 $V_(501)
+set V_(502) 2.6447573305575234
+$vehicle_(502) setdest [expr $val(x)-1] 10.0 $V_(502)
+set V_(503) 6.885799099976442
+$vehicle_(503) setdest [expr $val(x)-1] 10.0 $V_(503)
+set V_(504) 19.551692997316845
+$vehicle_(504) setdest [expr $val(x)-1] 10.0 $V_(504)
+set V_(505) 19.201183407124006
+$vehicle_(505) setdest [expr $val(x)-1] 10.0 $V_(505)
+set V_(506) 6.582692971222599
+$vehicle_(506) setdest [expr $val(x)-1] 10.0 $V_(506)
+set V_(507) 18.306917838655256
+$vehicle_(507) setdest [expr $val(x)-1] 10.0 $V_(507)
+set V_(508) 2.741892111723012
+$vehicle_(508) setdest [expr $val(x)-1] 10.0 $V_(508)
+set V_(509) 0.03240973689961679
+$vehicle_(509) setdest [expr $val(x)-1] 10.0 $V_(509)
+set V_(510) 18.754113079944254
+$vehicle_(510) setdest [expr $val(x)-1] 10.0 $V_(510)
+set V_(511) 7.538171613652917
+$vehicle_(511) setdest [expr $val(x)-1] 10.0 $V_(511)
+set V_(512) 14.645243267956904
+$vehicle_(512) setdest [expr $val(x)-1] 10.0 $V_(512)
+set V_(513) 15.791063913354966
+$vehicle_(513) setdest [expr $val(x)-1] 10.0 $V_(513)
+set V_(514) 7.4865834177787605
+$vehicle_(514) setdest [expr $val(x)-1] 10.0 $V_(514)
+set V_(515) 17.404903969116553
+$vehicle_(515) setdest [expr $val(x)-1] 10.0 $V_(515)
+set V_(516) 7.193097157343244
+$vehicle_(516) setdest [expr $val(x)-1] 10.0 $V_(516)
+set V_(517) 16.49401670182946
+$vehicle_(517) setdest [expr $val(x)-1] 10.0 $V_(517)
+set V_(518) 6.207143081677586
+$vehicle_(518) setdest [expr $val(x)-1] 10.0 $V_(518)
+set V_(519) 1.72629001755219
+$vehicle_(519) setdest [expr $val(x)-1] 10.0 $V_(519)
+set V_(520) 5.21620163225262
+$vehicle_(520) setdest [expr $val(x)-1] 10.0 $V_(520)
+set V_(521) 14.326857327382864
+$vehicle_(521) setdest [expr $val(x)-1] 10.0 $V_(521)
+set V_(522) 1.686640435202178
+$vehicle_(522) setdest [expr $val(x)-1] 10.0 $V_(522)
+set V_(523) 15.221438236504527
+$vehicle_(523) setdest [expr $val(x)-1] 10.0 $V_(523)
+set V_(524) 14.949708031011967
+$vehicle_(524) setdest [expr $val(x)-1] 10.0 $V_(524)
+set V_(525) 8.22968077022603
+$vehicle_(525) setdest [expr $val(x)-1] 10.0 $V_(525)
+set V_(526) 3.917007132221384
+$vehicle_(526) setdest [expr $val(x)-1] 10.0 $V_(526)
+set V_(527) 15.196283136294397
+$vehicle_(527) setdest [expr $val(x)-1] 10.0 $V_(527)
+set V_(528) 8.359648538992065
+$vehicle_(528) setdest [expr $val(x)-1] 10.0 $V_(528)
+set V_(529) 12.716371914355058
+$vehicle_(529) setdest [expr $val(x)-1] 10.0 $V_(529)
+set V_(530) 18.249523602892243
+$vehicle_(530) setdest [expr $val(x)-1] 10.0 $V_(530)
+set V_(531) 8.769213305256041
+$vehicle_(531) setdest [expr $val(x)-1] 10.0 $V_(531)
+set V_(532) 8.186522341134253
+$vehicle_(532) setdest [expr $val(x)-1] 10.0 $V_(532)
+set V_(533) 17.781019315904082
+$vehicle_(533) setdest [expr $val(x)-1] 10.0 $V_(533)
+set V_(534) 4.738531456175641
+$vehicle_(534) setdest [expr $val(x)-1] 10.0 $V_(534)
+set V_(535) 2.6160186205099634
+$vehicle_(535) setdest [expr $val(x)-1] 10.0 $V_(535)
+set V_(536) 6.980526275713757
+$vehicle_(536) setdest [expr $val(x)-1] 10.0 $V_(536)
+set V_(537) 16.530254113311056
+$vehicle_(537) setdest [expr $val(x)-1] 10.0 $V_(537)
+set V_(538) 7.0764609272268615
+$vehicle_(538) setdest [expr $val(x)-1] 10.0 $V_(538)
+set V_(539) 13.562405258705589
+$vehicle_(539) setdest [expr $val(x)-1] 10.0 $V_(539)
+set V_(540) 4.906863364962318
+$vehicle_(540) setdest [expr $val(x)-1] 10.0 $V_(540)
+set V_(541) 15.090465288231723
+$vehicle_(541) setdest [expr $val(x)-1] 10.0 $V_(541)
+set V_(542) 4.0724346608815365
+$vehicle_(542) setdest [expr $val(x)-1] 10.0 $V_(542)
+set V_(543) 17.824985365862805
+$vehicle_(543) setdest [expr $val(x)-1] 10.0 $V_(543)
+set V_(544) 5.728491565749605
+$vehicle_(544) setdest [expr $val(x)-1] 10.0 $V_(544)
+set V_(545) 5.373998554820241
+$vehicle_(545) setdest [expr $val(x)-1] 10.0 $V_(545)
+set V_(546) 0.318140590635696
+$vehicle_(546) setdest [expr $val(x)-1] 10.0 $V_(546)
+set V_(547) 14.299294185991654
+$vehicle_(547) setdest [expr $val(x)-1] 10.0 $V_(547)
+set V_(548) 8.127553992511608
+$vehicle_(548) setdest [expr $val(x)-1] 10.0 $V_(548)
+set V_(549) 15.448595750986037
+$vehicle_(549) setdest [expr $val(x)-1] 10.0 $V_(549)
+set V_(550) 9.501038992399813
+$vehicle_(550) setdest [expr $val(x)-1] 10.0 $V_(550)
+set V_(551) 13.01605895352418
+$vehicle_(551) setdest [expr $val(x)-1] 10.0 $V_(551)
+set V_(552) 10.405663235003253
+$vehicle_(552) setdest [expr $val(x)-1] 10.0 $V_(552)
+set V_(553) 14.539504232835052
+$vehicle_(553) setdest [expr $val(x)-1] 10.0 $V_(553)
+set V_(554) 13.766406835622254
+$vehicle_(554) setdest [expr $val(x)-1] 10.0 $V_(554)
+set V_(555) 13.734583406269795
+$vehicle_(555) setdest [expr $val(x)-1] 10.0 $V_(555)
+set V_(556) 10.607098175601745
+$vehicle_(556) setdest [expr $val(x)-1] 10.0 $V_(556)
+set V_(557) 0.10381765573938218
+$vehicle_(557) setdest [expr $val(x)-1] 10.0 $V_(557)
+set V_(558) 5.596107111837494
+$vehicle_(558) setdest [expr $val(x)-1] 10.0 $V_(558)
+set V_(559) 11.614780170342883
+$vehicle_(559) setdest [expr $val(x)-1] 10.0 $V_(559)
+set V_(560) 11.237895351298876
+$vehicle_(560) setdest [expr $val(x)-1] 10.0 $V_(560)
+set V_(561) 12.951794539668098
+$vehicle_(561) setdest [expr $val(x)-1] 10.0 $V_(561)
+set V_(562) 14.863388319033879
+$vehicle_(562) setdest [expr $val(x)-1] 10.0 $V_(562)
+set V_(563) 17.007039081080787
+$vehicle_(563) setdest [expr $val(x)-1] 10.0 $V_(563)
+set V_(564) 8.007704494435512
+$vehicle_(564) setdest [expr $val(x)-1] 10.0 $V_(564)
+set V_(565) 13.050028893960812
+$vehicle_(565) setdest [expr $val(x)-1] 10.0 $V_(565)
+set V_(566) 13.039420545622662
+$vehicle_(566) setdest [expr $val(x)-1] 10.0 $V_(566)
+set V_(567) 4.621763032395057
+$vehicle_(567) setdest [expr $val(x)-1] 10.0 $V_(567)
+set V_(568) 15.400205121548469
+$vehicle_(568) setdest [expr $val(x)-1] 10.0 $V_(568)
+set V_(569) 3.4265272921575796
+$vehicle_(569) setdest [expr $val(x)-1] 10.0 $V_(569)
+set V_(570) 8.968684366152166
+$vehicle_(570) setdest [expr $val(x)-1] 10.0 $V_(570)
+set V_(571) 13.688078894762203
+$vehicle_(571) setdest [expr $val(x)-1] 10.0 $V_(571)
+set V_(572) 18.38176924328775
+$vehicle_(572) setdest [expr $val(x)-1] 10.0 $V_(572)
+set V_(573) 12.50788526349842
+$vehicle_(573) setdest [expr $val(x)-1] 10.0 $V_(573)
+set V_(574) 6.196728256784921
+$vehicle_(574) setdest [expr $val(x)-1] 10.0 $V_(574)
+set V_(575) 5.183868181612199
+$vehicle_(575) setdest [expr $val(x)-1] 10.0 $V_(575)
+set V_(576) 19.18697089939986
+$vehicle_(576) setdest [expr $val(x)-1] 10.0 $V_(576)
+set V_(577) 16.25392303775396
+$vehicle_(577) setdest [expr $val(x)-1] 10.0 $V_(577)
+set V_(578) 0.5252301583337604
+$vehicle_(578) setdest [expr $val(x)-1] 10.0 $V_(578)
+set V_(579) 4.816932000786586
+$vehicle_(579) setdest [expr $val(x)-1] 10.0 $V_(579)
+set V_(580) 10.87344992242706
+$vehicle_(580) setdest [expr $val(x)-1] 10.0 $V_(580)
+set V_(581) 0.6152942248477178
+$vehicle_(581) setdest [expr $val(x)-1] 10.0 $V_(581)
+set V_(582) 18.28568611020128
+$vehicle_(582) setdest [expr $val(x)-1] 10.0 $V_(582)
+set V_(583) 1.1597564400429006
+$vehicle_(583) setdest [expr $val(x)-1] 10.0 $V_(583)
+set V_(584) 15.217534207973458
+$vehicle_(584) setdest [expr $val(x)-1] 10.0 $V_(584)
+set V_(585) 12.124732255162627
+$vehicle_(585) setdest [expr $val(x)-1] 10.0 $V_(585)
+set V_(586) 10.764472393250184
+$vehicle_(586) setdest [expr $val(x)-1] 10.0 $V_(586)
+set V_(587) 7.187995188624285
+$vehicle_(587) setdest [expr $val(x)-1] 10.0 $V_(587)
+set V_(588) 11.525949071039626
+$vehicle_(588) setdest [expr $val(x)-1] 10.0 $V_(588)
+set V_(589) 19.84276384769762
+$vehicle_(589) setdest [expr $val(x)-1] 10.0 $V_(589)
+set V_(590) 8.27842208636438
+$vehicle_(590) setdest [expr $val(x)-1] 10.0 $V_(590)
+set V_(591) 10.445455262203016
+$vehicle_(591) setdest [expr $val(x)-1] 10.0 $V_(591)
+set V_(592) 15.06782455761706
+$vehicle_(592) setdest [expr $val(x)-1] 10.0 $V_(592)
+set V_(593) 15.413870185310268
+$vehicle_(593) setdest [expr $val(x)-1] 10.0 $V_(593)
+set V_(594) 18.59147272616639
+$vehicle_(594) setdest [expr $val(x)-1] 10.0 $V_(594)
+set V_(595) 12.15601357849019
+$vehicle_(595) setdest [expr $val(x)-1] 10.0 $V_(595)
+set V_(596) 19.085139775312797
+$vehicle_(596) setdest [expr $val(x)-1] 10.0 $V_(596)
+set V_(597) 9.649229462286883
+$vehicle_(597) setdest [expr $val(x)-1] 10.0 $V_(597)
+set V_(598) 8.679337734831565
+$vehicle_(598) setdest [expr $val(x)-1] 10.0 $V_(598)
+set V_(599) 8.825559575592376
+$vehicle_(599) setdest [expr $val(x)-1] 10.0 $V_(599)
+set V_(600) 12.718637536019637
+$vehicle_(600) setdest [expr $val(x)-1] 10.0 $V_(600)
+set V_(601) 3.8373421424439713
+$vehicle_(601) setdest [expr $val(x)-1] 10.0 $V_(601)
+set V_(602) 16.290570084271803
+$vehicle_(602) setdest [expr $val(x)-1] 10.0 $V_(602)
+set V_(603) 1.2247079673518302
+$vehicle_(603) setdest [expr $val(x)-1] 10.0 $V_(603)
+set V_(604) 8.69014965720398
+$vehicle_(604) setdest [expr $val(x)-1] 10.0 $V_(604)
+set V_(605) 1.8939817967026107
+$vehicle_(605) setdest [expr $val(x)-1] 10.0 $V_(605)
+set V_(606) 18.318785341271713
+$vehicle_(606) setdest [expr $val(x)-1] 10.0 $V_(606)
+set V_(607) 5.115689468031508
+$vehicle_(607) setdest [expr $val(x)-1] 10.0 $V_(607)
+set V_(608) 19.211185397648244
+$vehicle_(608) setdest [expr $val(x)-1] 10.0 $V_(608)
+set V_(609) 5.498083719793938
+$vehicle_(609) setdest [expr $val(x)-1] 10.0 $V_(609)
+set V_(610) 16.692224079886767
+$vehicle_(610) setdest [expr $val(x)-1] 10.0 $V_(610)
+set V_(611) 5.684472514198098
+$vehicle_(611) setdest [expr $val(x)-1] 10.0 $V_(611)
+set V_(612) 6.341535423110507
+$vehicle_(612) setdest [expr $val(x)-1] 10.0 $V_(612)
+set V_(613) 18.52032820436202
+$vehicle_(613) setdest [expr $val(x)-1] 10.0 $V_(613)
+set V_(614) 9.303234726535358
+$vehicle_(614) setdest [expr $val(x)-1] 10.0 $V_(614)
+set V_(615) 3.3618370897441197
+$vehicle_(615) setdest [expr $val(x)-1] 10.0 $V_(615)
+set V_(616) 3.9005504808373948
+$vehicle_(616) setdest [expr $val(x)-1] 10.0 $V_(616)
+set V_(617) 19.336344849084956
+$vehicle_(617) setdest [expr $val(x)-1] 10.0 $V_(617)
+set V_(618) 13.441665697174951
+$vehicle_(618) setdest [expr $val(x)-1] 10.0 $V_(618)
+set V_(619) 2.5647715934685666
+$vehicle_(619) setdest [expr $val(x)-1] 10.0 $V_(619)
+set V_(620) 2.037669993372442
+$vehicle_(620) setdest [expr $val(x)-1] 10.0 $V_(620)
+set V_(621) 0.026603461240057857
+$vehicle_(621) setdest [expr $val(x)-1] 10.0 $V_(621)
+set V_(622) 2.2625627441657947
+$vehicle_(622) setdest [expr $val(x)-1] 10.0 $V_(622)
+set V_(623) 16.862219417385994
+$vehicle_(623) setdest [expr $val(x)-1] 10.0 $V_(623)
+set V_(624) 2.697662318622771
+$vehicle_(624) setdest [expr $val(x)-1] 10.0 $V_(624)
+set V_(625) 2.357208282144363E-4
+$vehicle_(625) setdest [expr $val(x)-1] 10.0 $V_(625)
+set V_(626) 1.0099770311498135
+$vehicle_(626) setdest [expr $val(x)-1] 10.0 $V_(626)
+set V_(627) 4.166859951677571
+$vehicle_(627) setdest [expr $val(x)-1] 10.0 $V_(627)
+set V_(628) 14.469967586301456
+$vehicle_(628) setdest [expr $val(x)-1] 10.0 $V_(628)
+set V_(629) 18.24015979993314
+$vehicle_(629) setdest [expr $val(x)-1] 10.0 $V_(629)
+set V_(630) 9.0350834180901
+$vehicle_(630) setdest [expr $val(x)-1] 10.0 $V_(630)
+set V_(631) 3.777268502887954
+$vehicle_(631) setdest [expr $val(x)-1] 10.0 $V_(631)
+set V_(632) 18.690424748335055
+$vehicle_(632) setdest [expr $val(x)-1] 10.0 $V_(632)
+set V_(633) 13.152067846015314
+$vehicle_(633) setdest [expr $val(x)-1] 10.0 $V_(633)
+set V_(634) 6.088232661104971
+$vehicle_(634) setdest [expr $val(x)-1] 10.0 $V_(634)
+set V_(635) 3.442446204447829
+$vehicle_(635) setdest [expr $val(x)-1] 10.0 $V_(635)
+set V_(636) 5.167571012841923
+$vehicle_(636) setdest [expr $val(x)-1] 10.0 $V_(636)
+set V_(637) 11.909962643899572
+$vehicle_(637) setdest [expr $val(x)-1] 10.0 $V_(637)
+set V_(638) 6.930950445803341
+$vehicle_(638) setdest [expr $val(x)-1] 10.0 $V_(638)
+set V_(639) 19.093379281580614
+$vehicle_(639) setdest [expr $val(x)-1] 10.0 $V_(639)
+set V_(640) 5.534622081684448
+$vehicle_(640) setdest [expr $val(x)-1] 10.0 $V_(640)
+set V_(641) 12.226109309227382
+$vehicle_(641) setdest [expr $val(x)-1] 10.0 $V_(641)
+set V_(642) 7.005316539641148
+$vehicle_(642) setdest [expr $val(x)-1] 10.0 $V_(642)
+set V_(643) 2.4839323026497206
+$vehicle_(643) setdest [expr $val(x)-1] 10.0 $V_(643)
+set V_(644) 4.982127002592205
+$vehicle_(644) setdest [expr $val(x)-1] 10.0 $V_(644)
+set V_(645) 8.633411725188942
+$vehicle_(645) setdest [expr $val(x)-1] 10.0 $V_(645)
+set V_(646) 13.714550753842973
+$vehicle_(646) setdest [expr $val(x)-1] 10.0 $V_(646)
+set V_(647) 2.7060446253176673
+$vehicle_(647) setdest [expr $val(x)-1] 10.0 $V_(647)
+set V_(648) 9.005219762503964
+$vehicle_(648) setdest [expr $val(x)-1] 10.0 $V_(648)
+set V_(649) 12.653379894188912
+$vehicle_(649) setdest [expr $val(x)-1] 10.0 $V_(649)
+set V_(650) 2.810050704709872
+$vehicle_(650) setdest [expr $val(x)-1] 10.0 $V_(650)
+set V_(651) 16.39184974991903
+$vehicle_(651) setdest [expr $val(x)-1] 10.0 $V_(651)
+set V_(652) 0.8032745623503157
+$vehicle_(652) setdest [expr $val(x)-1] 10.0 $V_(652)
+set V_(653) 1.6330180723145915
+$vehicle_(653) setdest [expr $val(x)-1] 10.0 $V_(653)
+set V_(654) 17.446520979878205
+$vehicle_(654) setdest [expr $val(x)-1] 10.0 $V_(654)
+set V_(655) 8.387997864077006
+$vehicle_(655) setdest [expr $val(x)-1] 10.0 $V_(655)
+set V_(656) 7.098696471497519
+$vehicle_(656) setdest [expr $val(x)-1] 10.0 $V_(656)
+set V_(657) 4.56911362544111
+$vehicle_(657) setdest [expr $val(x)-1] 10.0 $V_(657)
+set V_(658) 18.658252825090393
+$vehicle_(658) setdest [expr $val(x)-1] 10.0 $V_(658)
+set V_(659) 9.785115514494498
+$vehicle_(659) setdest [expr $val(x)-1] 10.0 $V_(659)
+set V_(660) 15.395472038900333
+$vehicle_(660) setdest [expr $val(x)-1] 10.0 $V_(660)
+set V_(661) 14.89855938280202
+$vehicle_(661) setdest [expr $val(x)-1] 10.0 $V_(661)
+set V_(662) 0.3260039290837313
+$vehicle_(662) setdest [expr $val(x)-1] 10.0 $V_(662)
+set V_(663) 3.4079917166983287
+$vehicle_(663) setdest [expr $val(x)-1] 10.0 $V_(663)
+set V_(664) 14.077020869986718
+$vehicle_(664) setdest [expr $val(x)-1] 10.0 $V_(664)
+set V_(665) 10.01851336408311
+$vehicle_(665) setdest [expr $val(x)-1] 10.0 $V_(665)
+set V_(666) 19.145350691081376
+$vehicle_(666) setdest [expr $val(x)-1] 10.0 $V_(666)
+set V_(667) 8.219738997472446
+$vehicle_(667) setdest [expr $val(x)-1] 10.0 $V_(667)
+set V_(668) 18.246784757959915
+$vehicle_(668) setdest [expr $val(x)-1] 10.0 $V_(668)
+set V_(669) 15.210336071428719
+$vehicle_(669) setdest [expr $val(x)-1] 10.0 $V_(669)
+set V_(670) 0.6737767301109265
+$vehicle_(670) setdest [expr $val(x)-1] 10.0 $V_(670)
+set V_(671) 13.565834599294677
+$vehicle_(671) setdest [expr $val(x)-1] 10.0 $V_(671)
+set V_(672) 18.843909196944278
+$vehicle_(672) setdest [expr $val(x)-1] 10.0 $V_(672)
+set V_(673) 15.676418593756516
+$vehicle_(673) setdest [expr $val(x)-1] 10.0 $V_(673)
+set V_(674) 6.225179452508954
+$vehicle_(674) setdest [expr $val(x)-1] 10.0 $V_(674)
+set V_(675) 11.781596890943707
+$vehicle_(675) setdest [expr $val(x)-1] 10.0 $V_(675)
+set V_(676) 10.320264722458127
+$vehicle_(676) setdest [expr $val(x)-1] 10.0 $V_(676)
+set V_(677) 14.559160194443079
+$vehicle_(677) setdest [expr $val(x)-1] 10.0 $V_(677)
+set V_(678) 2.1968735497787617
+$vehicle_(678) setdest [expr $val(x)-1] 10.0 $V_(678)
+set V_(679) 13.409316083217115
+$vehicle_(679) setdest [expr $val(x)-1] 10.0 $V_(679)
+set V_(680) 13.043979742528638
+$vehicle_(680) setdest [expr $val(x)-1] 10.0 $V_(680)
+set V_(681) 17.096516846274483
+$vehicle_(681) setdest [expr $val(x)-1] 10.0 $V_(681)
+set V_(682) 3.355584500426223
+$vehicle_(682) setdest [expr $val(x)-1] 10.0 $V_(682)
+set V_(683) 3.1189104173540083
+$vehicle_(683) setdest [expr $val(x)-1] 10.0 $V_(683)
+set V_(684) 10.598539026657534
+$vehicle_(684) setdest [expr $val(x)-1] 10.0 $V_(684)
+set V_(685) 11.478694921417834
+$vehicle_(685) setdest [expr $val(x)-1] 10.0 $V_(685)
+set V_(686) 4.675325204066025
+$vehicle_(686) setdest [expr $val(x)-1] 10.0 $V_(686)
+set V_(687) 6.398637255703587
+$vehicle_(687) setdest [expr $val(x)-1] 10.0 $V_(687)
+set V_(688) 9.275433706885174
+$vehicle_(688) setdest [expr $val(x)-1] 10.0 $V_(688)
+set V_(689) 15.50572005208242
+$vehicle_(689) setdest [expr $val(x)-1] 10.0 $V_(689)
+set V_(690) 12.511456837687113
+$vehicle_(690) setdest [expr $val(x)-1] 10.0 $V_(690)
+set V_(691) 7.180040144425275
+$vehicle_(691) setdest [expr $val(x)-1] 10.0 $V_(691)
+set V_(692) 17.31223593609236
+$vehicle_(692) setdest [expr $val(x)-1] 10.0 $V_(692)
+set V_(693) 4.805772731712226
+$vehicle_(693) setdest [expr $val(x)-1] 10.0 $V_(693)
+set V_(694) 15.211644932026388
+$vehicle_(694) setdest [expr $val(x)-1] 10.0 $V_(694)
+set V_(695) 4.783978202126031
+$vehicle_(695) setdest [expr $val(x)-1] 10.0 $V_(695)
+set V_(696) 14.806885172951066
+$vehicle_(696) setdest [expr $val(x)-1] 10.0 $V_(696)
+set V_(697) 13.159330453498697
+$vehicle_(697) setdest [expr $val(x)-1] 10.0 $V_(697)
+set V_(698) 15.705822791688401
+$vehicle_(698) setdest [expr $val(x)-1] 10.0 $V_(698)
+set V_(699) 4.922230035758403
+$vehicle_(699) setdest [expr $val(x)-1] 10.0 $V_(699)
+set V_(700) 1.7428800419862367
+$vehicle_(700) setdest [expr $val(x)-1] 10.0 $V_(700)
+set V_(701) 18.384318500860207
+$vehicle_(701) setdest [expr $val(x)-1] 10.0 $V_(701)
+set V_(702) 4.183681925149861
+$vehicle_(702) setdest [expr $val(x)-1] 10.0 $V_(702)
+set V_(703) 3.9618271546518513
+$vehicle_(703) setdest [expr $val(x)-1] 10.0 $V_(703)
+set V_(704) 11.188971043133758
+$vehicle_(704) setdest [expr $val(x)-1] 10.0 $V_(704)
+set V_(705) 18.27262585958423
+$vehicle_(705) setdest [expr $val(x)-1] 10.0 $V_(705)
+set V_(706) 17.659619533822728
+$vehicle_(706) setdest [expr $val(x)-1] 10.0 $V_(706)
+set V_(707) 8.256926213256179
+$vehicle_(707) setdest [expr $val(x)-1] 10.0 $V_(707)
+set V_(708) 17.490866217623434
+$vehicle_(708) setdest [expr $val(x)-1] 10.0 $V_(708)
+set V_(709) 0.22849954438277198
+$vehicle_(709) setdest [expr $val(x)-1] 10.0 $V_(709)
+set V_(710) 15.041470835710864
+$vehicle_(710) setdest [expr $val(x)-1] 10.0 $V_(710)
+set V_(711) 11.075688774084274
+$vehicle_(711) setdest [expr $val(x)-1] 10.0 $V_(711)
+set V_(712) 15.151353088775641
+$vehicle_(712) setdest [expr $val(x)-1] 10.0 $V_(712)
+set V_(713) 15.544483367159765
+$vehicle_(713) setdest [expr $val(x)-1] 10.0 $V_(713)
+set V_(714) 11.26077274550685
+$vehicle_(714) setdest [expr $val(x)-1] 10.0 $V_(714)
+set V_(715) 8.497286147244411
+$vehicle_(715) setdest [expr $val(x)-1] 10.0 $V_(715)
+set V_(716) 13.099155557254408
+$vehicle_(716) setdest [expr $val(x)-1] 10.0 $V_(716)
+set V_(717) 4.66073101951594
+$vehicle_(717) setdest [expr $val(x)-1] 10.0 $V_(717)
+set V_(718) 2.088697217498783
+$vehicle_(718) setdest [expr $val(x)-1] 10.0 $V_(718)
+set V_(719) 12.626809371731131
+$vehicle_(719) setdest [expr $val(x)-1] 10.0 $V_(719)
+set V_(720) 1.1757553302386503
+$vehicle_(720) setdest [expr $val(x)-1] 10.0 $V_(720)
+set V_(721) 3.288669985715218
+$vehicle_(721) setdest [expr $val(x)-1] 10.0 $V_(721)
+set V_(722) 12.453209236432407
+$vehicle_(722) setdest [expr $val(x)-1] 10.0 $V_(722)
+set V_(723) 15.57351969467244
+$vehicle_(723) setdest [expr $val(x)-1] 10.0 $V_(723)
+set V_(724) 0.9233010878586123
+$vehicle_(724) setdest [expr $val(x)-1] 10.0 $V_(724)
+set V_(725) 10.94015770927114
+$vehicle_(725) setdest [expr $val(x)-1] 10.0 $V_(725)
+set V_(726) 15.389410847761475
+$vehicle_(726) setdest [expr $val(x)-1] 10.0 $V_(726)
+set V_(727) 10.860530726613764
+$vehicle_(727) setdest [expr $val(x)-1] 10.0 $V_(727)
+set V_(728) 11.135643681114988
+$vehicle_(728) setdest [expr $val(x)-1] 10.0 $V_(728)
+set V_(729) 3.1884227179969105
+$vehicle_(729) setdest [expr $val(x)-1] 10.0 $V_(729)
+set V_(730) 16.19642517624019
+$vehicle_(730) setdest [expr $val(x)-1] 10.0 $V_(730)
+set V_(731) 10.281667419469871
+$vehicle_(731) setdest [expr $val(x)-1] 10.0 $V_(731)
+set V_(732) 0.1384421130086788
+$vehicle_(732) setdest [expr $val(x)-1] 10.0 $V_(732)
+set V_(733) 16.89724014228476
+$vehicle_(733) setdest [expr $val(x)-1] 10.0 $V_(733)
+set V_(734) 16.940605840676316
+$vehicle_(734) setdest [expr $val(x)-1] 10.0 $V_(734)
+set V_(735) 3.6939071756216824
+$vehicle_(735) setdest [expr $val(x)-1] 10.0 $V_(735)
+set V_(736) 1.393184368875171
+$vehicle_(736) setdest [expr $val(x)-1] 10.0 $V_(736)
+set V_(737) 13.689948173144867
+$vehicle_(737) setdest [expr $val(x)-1] 10.0 $V_(737)
+set V_(738) 10.136233953580124
+$vehicle_(738) setdest [expr $val(x)-1] 10.0 $V_(738)
+set V_(739) 16.831459552591642
+$vehicle_(739) setdest [expr $val(x)-1] 10.0 $V_(739)
+set V_(740) 16.773884068867208
+$vehicle_(740) setdest [expr $val(x)-1] 10.0 $V_(740)
+set V_(741) 11.09007069223351
+$vehicle_(741) setdest [expr $val(x)-1] 10.0 $V_(741)
+set V_(742) 17.251295477865803
+$vehicle_(742) setdest [expr $val(x)-1] 10.0 $V_(742)
+set V_(743) 7.950206423609831
+$vehicle_(743) setdest [expr $val(x)-1] 10.0 $V_(743)
+set V_(744) 2.744104605748492
+$vehicle_(744) setdest [expr $val(x)-1] 10.0 $V_(744)
+set V_(745) 3.0504599428292045
+$vehicle_(745) setdest [expr $val(x)-1] 10.0 $V_(745)
+set V_(746) 7.62732460555916
+$vehicle_(746) setdest [expr $val(x)-1] 10.0 $V_(746)
+set V_(747) 7.958866837281128
+$vehicle_(747) setdest [expr $val(x)-1] 10.0 $V_(747)
+set V_(748) 8.665891873712631
+$vehicle_(748) setdest [expr $val(x)-1] 10.0 $V_(748)
+set V_(749) 11.99804150079634
+$vehicle_(749) setdest [expr $val(x)-1] 10.0 $V_(749)
+set V_(750) 6.468706775748294
+$vehicle_(750) setdest [expr $val(x)-1] 10.0 $V_(750)
+set V_(751) 10.665920555405425
+$vehicle_(751) setdest [expr $val(x)-1] 10.0 $V_(751)
+set V_(752) 13.601073693718849
+$vehicle_(752) setdest [expr $val(x)-1] 10.0 $V_(752)
+set V_(753) 3.0563833702229726
+$vehicle_(753) setdest [expr $val(x)-1] 10.0 $V_(753)
+set V_(754) 6.748249020086412
+$vehicle_(754) setdest [expr $val(x)-1] 10.0 $V_(754)
+set V_(755) 19.868975143189303
+$vehicle_(755) setdest [expr $val(x)-1] 10.0 $V_(755)
+set V_(756) 8.219320356547934
+$vehicle_(756) setdest [expr $val(x)-1] 10.0 $V_(756)
+set V_(757) 7.768489718927882
+$vehicle_(757) setdest [expr $val(x)-1] 10.0 $V_(757)
+set V_(758) 19.19221749983454
+$vehicle_(758) setdest [expr $val(x)-1] 10.0 $V_(758)
+set V_(759) 18.23591082596504
+$vehicle_(759) setdest [expr $val(x)-1] 10.0 $V_(759)
+set V_(760) 11.806239213301918
+$vehicle_(760) setdest [expr $val(x)-1] 10.0 $V_(760)
+set V_(761) 9.427349965573997
+$vehicle_(761) setdest [expr $val(x)-1] 10.0 $V_(761)
+set V_(762) 6.949465724873869
+$vehicle_(762) setdest [expr $val(x)-1] 10.0 $V_(762)
+set V_(763) 19.274808952959543
+$vehicle_(763) setdest [expr $val(x)-1] 10.0 $V_(763)
+set V_(764) 0.868708703107357
+$vehicle_(764) setdest [expr $val(x)-1] 10.0 $V_(764)
+set V_(765) 15.031951298155754
+$vehicle_(765) setdest [expr $val(x)-1] 10.0 $V_(765)
+set V_(766) 17.11566407302768
+$vehicle_(766) setdest [expr $val(x)-1] 10.0 $V_(766)
+set V_(767) 18.16231226361411
+$vehicle_(767) setdest [expr $val(x)-1] 10.0 $V_(767)
+set V_(768) 15.463536628998249
+$vehicle_(768) setdest [expr $val(x)-1] 10.0 $V_(768)
+set V_(769) 19.92161065117824
+$vehicle_(769) setdest [expr $val(x)-1] 10.0 $V_(769)
+set V_(770) 19.97506695926396
+$vehicle_(770) setdest [expr $val(x)-1] 10.0 $V_(770)
+set V_(771) 9.797725323114879
+$vehicle_(771) setdest [expr $val(x)-1] 10.0 $V_(771)
+set V_(772) 2.1294617597568943
+$vehicle_(772) setdest [expr $val(x)-1] 10.0 $V_(772)
+set V_(773) 0.3016358626564597
+$vehicle_(773) setdest [expr $val(x)-1] 10.0 $V_(773)
+set V_(774) 18.63864293902566
+$vehicle_(774) setdest [expr $val(x)-1] 10.0 $V_(774)
+set V_(775) 13.172825983946247
+$vehicle_(775) setdest [expr $val(x)-1] 10.0 $V_(775)
+set V_(776) 8.18139757335669
+$vehicle_(776) setdest [expr $val(x)-1] 10.0 $V_(776)
+set V_(777) 6.158487258296621
+$vehicle_(777) setdest [expr $val(x)-1] 10.0 $V_(777)
+set V_(778) 16.69881162723582
+$vehicle_(778) setdest [expr $val(x)-1] 10.0 $V_(778)
+set V_(779) 9.995005061985031
+$vehicle_(779) setdest [expr $val(x)-1] 10.0 $V_(779)
+set V_(780) 1.1297446865687855
+$vehicle_(780) setdest [expr $val(x)-1] 10.0 $V_(780)
+set V_(781) 12.472763281553721
+$vehicle_(781) setdest [expr $val(x)-1] 10.0 $V_(781)
+set V_(782) 9.587431294686453
+$vehicle_(782) setdest [expr $val(x)-1] 10.0 $V_(782)
+set V_(783) 12.474016159606196
+$vehicle_(783) setdest [expr $val(x)-1] 10.0 $V_(783)
+set V_(784) 9.11648810655295
+$vehicle_(784) setdest [expr $val(x)-1] 10.0 $V_(784)
+set V_(785) 0.1734919058526163
+$vehicle_(785) setdest [expr $val(x)-1] 10.0 $V_(785)
+set V_(786) 16.515089188633834
+$vehicle_(786) setdest [expr $val(x)-1] 10.0 $V_(786)
+set V_(787) 0.2802667498235123
+$vehicle_(787) setdest [expr $val(x)-1] 10.0 $V_(787)
+set V_(788) 3.513716929309725
+$vehicle_(788) setdest [expr $val(x)-1] 10.0 $V_(788)
+set V_(789) 19.937370150857316
+$vehicle_(789) setdest [expr $val(x)-1] 10.0 $V_(789)
+set V_(790) 14.186151987629145
+$vehicle_(790) setdest [expr $val(x)-1] 10.0 $V_(790)
+set V_(791) 9.905245951033194
+$vehicle_(791) setdest [expr $val(x)-1] 10.0 $V_(791)
+set V_(792) 13.209093421732652
+$vehicle_(792) setdest [expr $val(x)-1] 10.0 $V_(792)
+set V_(793) 1.7217350245571228
+$vehicle_(793) setdest [expr $val(x)-1] 10.0 $V_(793)
+set V_(794) 10.925441706330252
+$vehicle_(794) setdest [expr $val(x)-1] 10.0 $V_(794)
+set V_(795) 1.0023290027476706
+$vehicle_(795) setdest [expr $val(x)-1] 10.0 $V_(795)
+set V_(796) 11.606725296100436
+$vehicle_(796) setdest [expr $val(x)-1] 10.0 $V_(796)
+set V_(797) 10.830228443613903
+$vehicle_(797) setdest [expr $val(x)-1] 10.0 $V_(797)
+set V_(798) 10.41880685380354
+$vehicle_(798) setdest [expr $val(x)-1] 10.0 $V_(798)
+set V_(799) 3.7588718765859164
+$vehicle_(799) setdest [expr $val(x)-1] 10.0 $V_(799)
+set V_(800) 12.000777759826239
+$vehicle_(800) setdest [expr $val(x)-1] 10.0 $V_(800)
+set V_(801) 17.34525269937916
+$vehicle_(801) setdest [expr $val(x)-1] 10.0 $V_(801)
+set V_(802) 17.961265381075194
+$vehicle_(802) setdest [expr $val(x)-1] 10.0 $V_(802)
+set V_(803) 8.94814317838486
+$vehicle_(803) setdest [expr $val(x)-1] 10.0 $V_(803)
+set V_(804) 4.733089708078515
+$vehicle_(804) setdest [expr $val(x)-1] 10.0 $V_(804)
+set V_(805) 19.92148617681571
+$vehicle_(805) setdest [expr $val(x)-1] 10.0 $V_(805)
+set V_(806) 18.922804334382672
+$vehicle_(806) setdest [expr $val(x)-1] 10.0 $V_(806)
+set V_(807) 18.032322433463868
+$vehicle_(807) setdest [expr $val(x)-1] 10.0 $V_(807)
+set V_(808) 10.424948670072084
+$vehicle_(808) setdest [expr $val(x)-1] 10.0 $V_(808)
+set V_(809) 7.21987245488118
+$vehicle_(809) setdest [expr $val(x)-1] 10.0 $V_(809)
+set V_(810) 9.083321324943228
+$vehicle_(810) setdest [expr $val(x)-1] 10.0 $V_(810)
+set V_(811) 4.535423563985342
+$vehicle_(811) setdest [expr $val(x)-1] 10.0 $V_(811)
+set V_(812) 7.577097684531946
+$vehicle_(812) setdest [expr $val(x)-1] 10.0 $V_(812)
+set V_(813) 10.671663859976618
+$vehicle_(813) setdest [expr $val(x)-1] 10.0 $V_(813)
+set V_(814) 19.55460788188501
+$vehicle_(814) setdest [expr $val(x)-1] 10.0 $V_(814)
+set V_(815) 9.877685961276159
+$vehicle_(815) setdest [expr $val(x)-1] 10.0 $V_(815)
+set V_(816) 19.960941415944973
+$vehicle_(816) setdest [expr $val(x)-1] 10.0 $V_(816)
+set V_(817) 0.797245325116942
+$vehicle_(817) setdest [expr $val(x)-1] 10.0 $V_(817)
+set V_(818) 15.198674967978842
+$vehicle_(818) setdest [expr $val(x)-1] 10.0 $V_(818)
+set V_(819) 6.960601864245093
+$vehicle_(819) setdest [expr $val(x)-1] 10.0 $V_(819)
+set V_(820) 19.47783859863774
+$vehicle_(820) setdest [expr $val(x)-1] 10.0 $V_(820)
+set V_(821) 5.9646304320014965
+$vehicle_(821) setdest [expr $val(x)-1] 10.0 $V_(821)
+set V_(822) 14.768126077497579
+$vehicle_(822) setdest [expr $val(x)-1] 10.0 $V_(822)
+set V_(823) 13.01443639089301
+$vehicle_(823) setdest [expr $val(x)-1] 10.0 $V_(823)
+set V_(824) 13.542258474179171
+$vehicle_(824) setdest [expr $val(x)-1] 10.0 $V_(824)
+set V_(825) 7.257670932202895
+$vehicle_(825) setdest [expr $val(x)-1] 10.0 $V_(825)
+set V_(826) 3.4356960841242334
+$vehicle_(826) setdest [expr $val(x)-1] 10.0 $V_(826)
+set V_(827) 19.567726026053325
+$vehicle_(827) setdest [expr $val(x)-1] 10.0 $V_(827)
+set V_(828) 2.548502555958214
+$vehicle_(828) setdest [expr $val(x)-1] 10.0 $V_(828)
+set V_(829) 6.034181573410599
+$vehicle_(829) setdest [expr $val(x)-1] 10.0 $V_(829)
+set V_(830) 3.946474098750634
+$vehicle_(830) setdest [expr $val(x)-1] 10.0 $V_(830)
+set V_(831) 11.870914270838785
+$vehicle_(831) setdest [expr $val(x)-1] 10.0 $V_(831)
+set V_(832) 12.60958216175738
+$vehicle_(832) setdest [expr $val(x)-1] 10.0 $V_(832)
+set V_(833) 11.789335815668844
+$vehicle_(833) setdest [expr $val(x)-1] 10.0 $V_(833)
+set V_(834) 1.3177362978342866
+$vehicle_(834) setdest [expr $val(x)-1] 10.0 $V_(834)
+set V_(835) 12.703933644675008
+$vehicle_(835) setdest [expr $val(x)-1] 10.0 $V_(835)
+set V_(836) 11.510763457935294
+$vehicle_(836) setdest [expr $val(x)-1] 10.0 $V_(836)
+set V_(837) 17.09984573967262
+$vehicle_(837) setdest [expr $val(x)-1] 10.0 $V_(837)
+set V_(838) 17.8277264164338
+$vehicle_(838) setdest [expr $val(x)-1] 10.0 $V_(838)
+set V_(839) 6.220196631245125
+$vehicle_(839) setdest [expr $val(x)-1] 10.0 $V_(839)
+set V_(840) 1.6991859508232876
+$vehicle_(840) setdest [expr $val(x)-1] 10.0 $V_(840)
+set V_(841) 13.709594567919481
+$vehicle_(841) setdest [expr $val(x)-1] 10.0 $V_(841)
+set V_(842) 9.976115014380923
+$vehicle_(842) setdest [expr $val(x)-1] 10.0 $V_(842)
+set V_(843) 16.327121925734133
+$vehicle_(843) setdest [expr $val(x)-1] 10.0 $V_(843)
+set V_(844) 13.13487631794169
+$vehicle_(844) setdest [expr $val(x)-1] 10.0 $V_(844)
+set V_(845) 19.227546614161113
+$vehicle_(845) setdest [expr $val(x)-1] 10.0 $V_(845)
+set V_(846) 7.165292595078525
+$vehicle_(846) setdest [expr $val(x)-1] 10.0 $V_(846)
+set V_(847) 11.075972928611293
+$vehicle_(847) setdest [expr $val(x)-1] 10.0 $V_(847)
+set V_(848) 10.95737547039924
+$vehicle_(848) setdest [expr $val(x)-1] 10.0 $V_(848)
+set V_(849) 7.443916849133149
+$vehicle_(849) setdest [expr $val(x)-1] 10.0 $V_(849)
+set V_(850) 13.04303912891353
+$vehicle_(850) setdest [expr $val(x)-1] 10.0 $V_(850)
+set V_(851) 19.631439530124833
+$vehicle_(851) setdest [expr $val(x)-1] 10.0 $V_(851)
+set V_(852) 8.17611569369836
+$vehicle_(852) setdest [expr $val(x)-1] 10.0 $V_(852)
+set V_(853) 6.930740024918871
+$vehicle_(853) setdest [expr $val(x)-1] 10.0 $V_(853)
+set V_(854) 4.763534436769
+$vehicle_(854) setdest [expr $val(x)-1] 10.0 $V_(854)
+set V_(855) 1.6140601843555191
+$vehicle_(855) setdest [expr $val(x)-1] 10.0 $V_(855)
+set V_(856) 11.971576559228074
+$vehicle_(856) setdest [expr $val(x)-1] 10.0 $V_(856)
+set V_(857) 12.378124919546245
+$vehicle_(857) setdest [expr $val(x)-1] 10.0 $V_(857)
+set V_(858) 12.86507359919776
+$vehicle_(858) setdest [expr $val(x)-1] 10.0 $V_(858)
+set V_(859) 19.956225703483124
+$vehicle_(859) setdest [expr $val(x)-1] 10.0 $V_(859)
+set V_(860) 13.6981708494908
+$vehicle_(860) setdest [expr $val(x)-1] 10.0 $V_(860)
+set V_(861) 1.0276580470584284
+$vehicle_(861) setdest [expr $val(x)-1] 10.0 $V_(861)
+set V_(862) 5.029251723246448
+$vehicle_(862) setdest [expr $val(x)-1] 10.0 $V_(862)
+set V_(863) 17.88517262325348
+$vehicle_(863) setdest [expr $val(x)-1] 10.0 $V_(863)
+set V_(864) 17.308699431469698
+$vehicle_(864) setdest [expr $val(x)-1] 10.0 $V_(864)
+set V_(865) 2.599546997623816
+$vehicle_(865) setdest [expr $val(x)-1] 10.0 $V_(865)
+set V_(866) 10.67780179715612
+$vehicle_(866) setdest [expr $val(x)-1] 10.0 $V_(866)
+set V_(867) 8.24402157031161
+$vehicle_(867) setdest [expr $val(x)-1] 10.0 $V_(867)
+set V_(868) 8.67413598588758
+$vehicle_(868) setdest [expr $val(x)-1] 10.0 $V_(868)
+set V_(869) 15.270279974111132
+$vehicle_(869) setdest [expr $val(x)-1] 10.0 $V_(869)
+set V_(870) 10.1796653758934
+$vehicle_(870) setdest [expr $val(x)-1] 10.0 $V_(870)
+set V_(871) 9.084580563875466
+$vehicle_(871) setdest [expr $val(x)-1] 10.0 $V_(871)
+set V_(872) 19.15140362114044
+$vehicle_(872) setdest [expr $val(x)-1] 10.0 $V_(872)
+set V_(873) 12.542711827122801
+$vehicle_(873) setdest [expr $val(x)-1] 10.0 $V_(873)
+set V_(874) 12.382284826517152
+$vehicle_(874) setdest [expr $val(x)-1] 10.0 $V_(874)
+set V_(875) 3.313280931540854
+$vehicle_(875) setdest [expr $val(x)-1] 10.0 $V_(875)
+set V_(876) 10.75570563696411
+$vehicle_(876) setdest [expr $val(x)-1] 10.0 $V_(876)
+set V_(877) 6.260656174630355
+$vehicle_(877) setdest [expr $val(x)-1] 10.0 $V_(877)
+set V_(878) 17.247515900831218
+$vehicle_(878) setdest [expr $val(x)-1] 10.0 $V_(878)
+set V_(879) 2.14427759240859
+$vehicle_(879) setdest [expr $val(x)-1] 10.0 $V_(879)
+set V_(880) 7.4228887437122015
+$vehicle_(880) setdest [expr $val(x)-1] 10.0 $V_(880)
+set V_(881) 19.555210804629763
+$vehicle_(881) setdest [expr $val(x)-1] 10.0 $V_(881)
+set V_(882) 6.56395678454574
+$vehicle_(882) setdest [expr $val(x)-1] 10.0 $V_(882)
+set V_(883) 12.21139844207394
+$vehicle_(883) setdest [expr $val(x)-1] 10.0 $V_(883)
+set V_(884) 17.101215211862804
+$vehicle_(884) setdest [expr $val(x)-1] 10.0 $V_(884)
+set V_(885) 0.17021122288376045
+$vehicle_(885) setdest [expr $val(x)-1] 10.0 $V_(885)
+set V_(886) 5.0239090679614335
+$vehicle_(886) setdest [expr $val(x)-1] 10.0 $V_(886)
+set V_(887) 4.413279894128008
+$vehicle_(887) setdest [expr $val(x)-1] 10.0 $V_(887)
+set V_(888) 12.790833803608567
+$vehicle_(888) setdest [expr $val(x)-1] 10.0 $V_(888)
+set V_(889) 9.399347835173135
+$vehicle_(889) setdest [expr $val(x)-1] 10.0 $V_(889)
+set V_(890) 6.394576033008947
+$vehicle_(890) setdest [expr $val(x)-1] 10.0 $V_(890)
+set V_(891) 18.913690702736677
+$vehicle_(891) setdest [expr $val(x)-1] 10.0 $V_(891)
+set V_(892) 7.1531387178434835
+$vehicle_(892) setdest [expr $val(x)-1] 10.0 $V_(892)
+set V_(893) 14.777652170928707
+$vehicle_(893) setdest [expr $val(x)-1] 10.0 $V_(893)
+set V_(894) 5.0795286283350976
+$vehicle_(894) setdest [expr $val(x)-1] 10.0 $V_(894)
+set V_(895) 15.191690930006622
+$vehicle_(895) setdest [expr $val(x)-1] 10.0 $V_(895)
+set V_(896) 4.941115003397978
+$vehicle_(896) setdest [expr $val(x)-1] 10.0 $V_(896)
+set V_(897) 15.705208184875053
+$vehicle_(897) setdest [expr $val(x)-1] 10.0 $V_(897)
+set V_(898) 12.057856194316493
+$vehicle_(898) setdest [expr $val(x)-1] 10.0 $V_(898)
+set V_(899) 8.63394531195927
+$vehicle_(899) setdest [expr $val(x)-1] 10.0 $V_(899)
+set V_(900) 10.25567872427208
+$vehicle_(900) setdest [expr $val(x)-1] 10.0 $V_(900)
+set V_(901) 0.3411010493366362
+$vehicle_(901) setdest [expr $val(x)-1] 10.0 $V_(901)
+set V_(902) 6.004843995367144
+$vehicle_(902) setdest [expr $val(x)-1] 10.0 $V_(902)
+set V_(903) 5.8841450509259445
+$vehicle_(903) setdest [expr $val(x)-1] 10.0 $V_(903)
+set V_(904) 1.5119198660379873
+$vehicle_(904) setdest [expr $val(x)-1] 10.0 $V_(904)
+set V_(905) 9.390767839347241
+$vehicle_(905) setdest [expr $val(x)-1] 10.0 $V_(905)
+set V_(906) 15.33940751781474
+$vehicle_(906) setdest [expr $val(x)-1] 10.0 $V_(906)
+set V_(907) 0.012169984344878593
+$vehicle_(907) setdest [expr $val(x)-1] 10.0 $V_(907)
+set V_(908) 6.003066118131091
+$vehicle_(908) setdest [expr $val(x)-1] 10.0 $V_(908)
+set V_(909) 7.820085957522426
+$vehicle_(909) setdest [expr $val(x)-1] 10.0 $V_(909)
+set V_(910) 5.0099379096864
+$vehicle_(910) setdest [expr $val(x)-1] 10.0 $V_(910)
+set V_(911) 13.538264280058955
+$vehicle_(911) setdest [expr $val(x)-1] 10.0 $V_(911)
+set V_(912) 8.078891351261074
+$vehicle_(912) setdest [expr $val(x)-1] 10.0 $V_(912)
+set V_(913) 19.064667335227114
+$vehicle_(913) setdest [expr $val(x)-1] 10.0 $V_(913)
+set V_(914) 13.021605328627485
+$vehicle_(914) setdest [expr $val(x)-1] 10.0 $V_(914)
+set V_(915) 2.4451614008108202
+$vehicle_(915) setdest [expr $val(x)-1] 10.0 $V_(915)
+set V_(916) 10.209199495093433
+$vehicle_(916) setdest [expr $val(x)-1] 10.0 $V_(916)
+set V_(917) 17.96300729774717
+$vehicle_(917) setdest [expr $val(x)-1] 10.0 $V_(917)
+set V_(918) 6.024577095755079
+$vehicle_(918) setdest [expr $val(x)-1] 10.0 $V_(918)
+set V_(919) 17.533749753503038
+$vehicle_(919) setdest [expr $val(x)-1] 10.0 $V_(919)
+set V_(920) 14.581918138328172
+$vehicle_(920) setdest [expr $val(x)-1] 10.0 $V_(920)
+set V_(921) 8.427277086988155
+$vehicle_(921) setdest [expr $val(x)-1] 10.0 $V_(921)
+set V_(922) 0.7240196312895475
+$vehicle_(922) setdest [expr $val(x)-1] 10.0 $V_(922)
+set V_(923) 0.8255245563533609
+$vehicle_(923) setdest [expr $val(x)-1] 10.0 $V_(923)
+set V_(924) 4.38924665412634
+$vehicle_(924) setdest [expr $val(x)-1] 10.0 $V_(924)
+set V_(925) 9.77570800032069
+$vehicle_(925) setdest [expr $val(x)-1] 10.0 $V_(925)
+set V_(926) 8.439150781036764
+$vehicle_(926) setdest [expr $val(x)-1] 10.0 $V_(926)
+set V_(927) 14.187731171886131
+$vehicle_(927) setdest [expr $val(x)-1] 10.0 $V_(927)
+set V_(928) 18.584203415135953
+$vehicle_(928) setdest [expr $val(x)-1] 10.0 $V_(928)
+set V_(929) 1.6856807096181514
+$vehicle_(929) setdest [expr $val(x)-1] 10.0 $V_(929)
+set V_(930) 3.8300218355083526
+$vehicle_(930) setdest [expr $val(x)-1] 10.0 $V_(930)
+set V_(931) 14.954760034947686
+$vehicle_(931) setdest [expr $val(x)-1] 10.0 $V_(931)
+set V_(932) 11.643833718330193
+$vehicle_(932) setdest [expr $val(x)-1] 10.0 $V_(932)
+set V_(933) 11.886773681803852
+$vehicle_(933) setdest [expr $val(x)-1] 10.0 $V_(933)
+set V_(934) 15.627107685438876
+$vehicle_(934) setdest [expr $val(x)-1] 10.0 $V_(934)
+set V_(935) 9.04200305459321
+$vehicle_(935) setdest [expr $val(x)-1] 10.0 $V_(935)
+set V_(936) 10.75423147514787
+$vehicle_(936) setdest [expr $val(x)-1] 10.0 $V_(936)
+set V_(937) 12.998196951800015
+$vehicle_(937) setdest [expr $val(x)-1] 10.0 $V_(937)
+set V_(938) 7.140202229264723
+$vehicle_(938) setdest [expr $val(x)-1] 10.0 $V_(938)
+set V_(939) 5.896053404900994
+$vehicle_(939) setdest [expr $val(x)-1] 10.0 $V_(939)
+set V_(940) 6.836448671315707
+$vehicle_(940) setdest [expr $val(x)-1] 10.0 $V_(940)
+set V_(941) 5.325183984144712
+$vehicle_(941) setdest [expr $val(x)-1] 10.0 $V_(941)
+set V_(942) 17.38950696407717
+$vehicle_(942) setdest [expr $val(x)-1] 10.0 $V_(942)
+set V_(943) 11.597768318115573
+$vehicle_(943) setdest [expr $val(x)-1] 10.0 $V_(943)
+set V_(944) 2.9612622269608346
+$vehicle_(944) setdest [expr $val(x)-1] 10.0 $V_(944)
+set V_(945) 0.9640695714094183
+$vehicle_(945) setdest [expr $val(x)-1] 10.0 $V_(945)
+set V_(946) 9.89321699780862
+$vehicle_(946) setdest [expr $val(x)-1] 10.0 $V_(946)
+set V_(947) 6.532383419112342
+$vehicle_(947) setdest [expr $val(x)-1] 10.0 $V_(947)
+set V_(948) 13.954681106534021
+$vehicle_(948) setdest [expr $val(x)-1] 10.0 $V_(948)
+set V_(949) 11.225946251954998
+$vehicle_(949) setdest [expr $val(x)-1] 10.0 $V_(949)
+set V_(950) 5.462316840332049
+$vehicle_(950) setdest [expr $val(x)-1] 10.0 $V_(950)
+set V_(951) 2.2635199073210144
+$vehicle_(951) setdest [expr $val(x)-1] 10.0 $V_(951)
+set V_(952) 4.374975153151663
+$vehicle_(952) setdest [expr $val(x)-1] 10.0 $V_(952)
+set V_(953) 14.173945022905947
+$vehicle_(953) setdest [expr $val(x)-1] 10.0 $V_(953)
+set V_(954) 17.794691112192137
+$vehicle_(954) setdest [expr $val(x)-1] 10.0 $V_(954)
+set V_(955) 18.595578594197164
+$vehicle_(955) setdest [expr $val(x)-1] 10.0 $V_(955)
+set V_(956) 8.545925127874769
+$vehicle_(956) setdest [expr $val(x)-1] 10.0 $V_(956)
+set V_(957) 1.9793281765010629
+$vehicle_(957) setdest [expr $val(x)-1] 10.0 $V_(957)
+set V_(958) 6.227081329627417
+$vehicle_(958) setdest [expr $val(x)-1] 10.0 $V_(958)
+set V_(959) 6.281678467949958
+$vehicle_(959) setdest [expr $val(x)-1] 10.0 $V_(959)
+set V_(960) 15.95988641571587
+$vehicle_(960) setdest [expr $val(x)-1] 10.0 $V_(960)
+set V_(961) 18.83677071569898
+$vehicle_(961) setdest [expr $val(x)-1] 10.0 $V_(961)
+set V_(962) 8.694805273627011
+$vehicle_(962) setdest [expr $val(x)-1] 10.0 $V_(962)
+set V_(963) 3.431945558452598
+$vehicle_(963) setdest [expr $val(x)-1] 10.0 $V_(963)
+set V_(964) 8.118172116329827
+$vehicle_(964) setdest [expr $val(x)-1] 10.0 $V_(964)
+set V_(965) 19.339321308673775
+$vehicle_(965) setdest [expr $val(x)-1] 10.0 $V_(965)
+set V_(966) 19.765580893286497
+$vehicle_(966) setdest [expr $val(x)-1] 10.0 $V_(966)
+set V_(967) 14.399619024309803
+$vehicle_(967) setdest [expr $val(x)-1] 10.0 $V_(967)
+set V_(968) 18.755170926544224
+$vehicle_(968) setdest [expr $val(x)-1] 10.0 $V_(968)
+set V_(969) 4.4987311798676615
+$vehicle_(969) setdest [expr $val(x)-1] 10.0 $V_(969)
+set V_(970) 13.555187425856065
+$vehicle_(970) setdest [expr $val(x)-1] 10.0 $V_(970)
+set V_(971) 18.770096805470672
+$vehicle_(971) setdest [expr $val(x)-1] 10.0 $V_(971)
+set V_(972) 18.396512105399218
+$vehicle_(972) setdest [expr $val(x)-1] 10.0 $V_(972)
+set V_(973) 8.006958775034041
+$vehicle_(973) setdest [expr $val(x)-1] 10.0 $V_(973)
+set V_(974) 19.399112340278457
+$vehicle_(974) setdest [expr $val(x)-1] 10.0 $V_(974)
+set V_(975) 15.050701521228735
+$vehicle_(975) setdest [expr $val(x)-1] 10.0 $V_(975)
+set V_(976) 16.330504884610907
+$vehicle_(976) setdest [expr $val(x)-1] 10.0 $V_(976)
+set V_(977) 8.86984968290978
+$vehicle_(977) setdest [expr $val(x)-1] 10.0 $V_(977)
+set V_(978) 19.34573657479106
+$vehicle_(978) setdest [expr $val(x)-1] 10.0 $V_(978)
+set V_(979) 18.756596624015454
+$vehicle_(979) setdest [expr $val(x)-1] 10.0 $V_(979)
+set V_(980) 8.325978377652245
+$vehicle_(980) setdest [expr $val(x)-1] 10.0 $V_(980)
+set V_(981) 18.204110009490122
+$vehicle_(981) setdest [expr $val(x)-1] 10.0 $V_(981)
+set V_(982) 10.85301277312902
+$vehicle_(982) setdest [expr $val(x)-1] 10.0 $V_(982)
+set V_(983) 7.810944601740499
+$vehicle_(983) setdest [expr $val(x)-1] 10.0 $V_(983)
+set V_(984) 16.80856313151615
+$vehicle_(984) setdest [expr $val(x)-1] 10.0 $V_(984)
+set V_(985) 7.773884703839422
+$vehicle_(985) setdest [expr $val(x)-1] 10.0 $V_(985)
+set V_(986) 5.512003748943077
+$vehicle_(986) setdest [expr $val(x)-1] 10.0 $V_(986)
+set V_(987) 19.525058652424065
+$vehicle_(987) setdest [expr $val(x)-1] 10.0 $V_(987)
+set V_(988) 11.71135119389973
+$vehicle_(988) setdest [expr $val(x)-1] 10.0 $V_(988)
+set V_(989) 15.753379261970544
+$vehicle_(989) setdest [expr $val(x)-1] 10.0 $V_(989)
+set V_(990) 15.187052448774079
+$vehicle_(990) setdest [expr $val(x)-1] 10.0 $V_(990)
+set V_(991) 12.89694838985316
+$vehicle_(991) setdest [expr $val(x)-1] 10.0 $V_(991)
+set V_(992) 4.844788168161649
+$vehicle_(992) setdest [expr $val(x)-1] 10.0 $V_(992)
+set V_(993) 1.237137632437344
+$vehicle_(993) setdest [expr $val(x)-1] 10.0 $V_(993)
+set V_(994) 10.65375411460763
+$vehicle_(994) setdest [expr $val(x)-1] 10.0 $V_(994)
+set V_(995) 17.564313679136102
+$vehicle_(995) setdest [expr $val(x)-1] 10.0 $V_(995)
+set V_(996) 18.384549753960805
+$vehicle_(996) setdest [expr $val(x)-1] 10.0 $V_(996)
+set V_(997) 3.179734421938958
+$vehicle_(997) setdest [expr $val(x)-1] 10.0 $V_(997)
+set V_(998) 4.632323287780402
+$vehicle_(998) setdest [expr $val(x)-1] 10.0 $V_(998)
+set V_(999) 16.470713249465472
+$vehicle_(999) setdest [expr $val(x)-1] 10.0 $V_(999)
+set V_(1000) 18.95506235298105
+$vehicle_(1000) setdest [expr $val(x)-1] 10.0 $V_(1000)
+set V_(1001) 11.731805421310721
+$vehicle_(1001) setdest [expr $val(x)-1] 10.0 $V_(1001)
+set V_(1002) 11.05533522834222
+$vehicle_(1002) setdest [expr $val(x)-1] 10.0 $V_(1002)
+set V_(1003) 13.151272643949492
+$vehicle_(1003) setdest [expr $val(x)-1] 10.0 $V_(1003)
+set V_(1004) 2.7902391783277536
+$vehicle_(1004) setdest [expr $val(x)-1] 10.0 $V_(1004)
+set V_(1005) 0.3494859145690987
+$vehicle_(1005) setdest [expr $val(x)-1] 10.0 $V_(1005)
+set V_(1006) 5.475244475445433
+$vehicle_(1006) setdest [expr $val(x)-1] 10.0 $V_(1006)
+set V_(1007) 16.516959543725832
+$vehicle_(1007) setdest [expr $val(x)-1] 10.0 $V_(1007)
+set V_(1008) 14.581902955724434
+$vehicle_(1008) setdest [expr $val(x)-1] 10.0 $V_(1008)
+set V_(1009) 15.589495303624197
+$vehicle_(1009) setdest [expr $val(x)-1] 10.0 $V_(1009)
+set V_(1010) 17.708477973895974
+$vehicle_(1010) setdest [expr $val(x)-1] 10.0 $V_(1010)
+set V_(1011) 16.114116723640716
+$vehicle_(1011) setdest [expr $val(x)-1] 10.0 $V_(1011)
+set V_(1012) 2.8802740101202096
+$vehicle_(1012) setdest [expr $val(x)-1] 10.0 $V_(1012)
+set V_(1013) 18.162247422832575
+$vehicle_(1013) setdest [expr $val(x)-1] 10.0 $V_(1013)
+set V_(1014) 7.129313229304735
+$vehicle_(1014) setdest [expr $val(x)-1] 10.0 $V_(1014)
+set V_(1015) 19.058587170258853
+$vehicle_(1015) setdest [expr $val(x)-1] 10.0 $V_(1015)
+set V_(1016) 18.289811438207426
+$vehicle_(1016) setdest [expr $val(x)-1] 10.0 $V_(1016)
+set V_(1017) 13.600536049217009
+$vehicle_(1017) setdest [expr $val(x)-1] 10.0 $V_(1017)
+set V_(1018) 3.468153527001303
+$vehicle_(1018) setdest [expr $val(x)-1] 10.0 $V_(1018)
+set V_(1019) 16.191431260908814
+$vehicle_(1019) setdest [expr $val(x)-1] 10.0 $V_(1019)
+set V_(1020) 7.207602493434768
+$vehicle_(1020) setdest [expr $val(x)-1] 10.0 $V_(1020)
+set V_(1021) 3.8114977462827504
+$vehicle_(1021) setdest [expr $val(x)-1] 10.0 $V_(1021)
+set V_(1022) 1.535224411733258
+$vehicle_(1022) setdest [expr $val(x)-1] 10.0 $V_(1022)
+set V_(1023) 19.475891668471764
+$vehicle_(1023) setdest [expr $val(x)-1] 10.0 $V_(1023)
+set V_(1024) 3.4803923146871574
+$vehicle_(1024) setdest [expr $val(x)-1] 10.0 $V_(1024)
+set V_(1025) 11.814699444701036
+$vehicle_(1025) setdest [expr $val(x)-1] 10.0 $V_(1025)
+set V_(1026) 16.98211274617562
+$vehicle_(1026) setdest [expr $val(x)-1] 10.0 $V_(1026)
+set V_(1027) 5.252911098944395
+$vehicle_(1027) setdest [expr $val(x)-1] 10.0 $V_(1027)
+set V_(1028) 13.110263707305736
+$vehicle_(1028) setdest [expr $val(x)-1] 10.0 $V_(1028)
+set V_(1029) 1.1293736126365905
+$vehicle_(1029) setdest [expr $val(x)-1] 10.0 $V_(1029)
+set V_(1030) 2.02998572106454
+$vehicle_(1030) setdest [expr $val(x)-1] 10.0 $V_(1030)
+set V_(1031) 8.695169266866468
+$vehicle_(1031) setdest [expr $val(x)-1] 10.0 $V_(1031)
+set V_(1032) 3.0178787747285774
+$vehicle_(1032) setdest [expr $val(x)-1] 10.0 $V_(1032)
+set V_(1033) 8.558965725196447
+$vehicle_(1033) setdest [expr $val(x)-1] 10.0 $V_(1033)
+set V_(1034) 5.034729395792141
+$vehicle_(1034) setdest [expr $val(x)-1] 10.0 $V_(1034)
+set V_(1035) 3.647266746570017
+$vehicle_(1035) setdest [expr $val(x)-1] 10.0 $V_(1035)
+set V_(1036) 3.8760933177212564
+$vehicle_(1036) setdest [expr $val(x)-1] 10.0 $V_(1036)
+set V_(1037) 14.53131409404219
+$vehicle_(1037) setdest [expr $val(x)-1] 10.0 $V_(1037)
+set V_(1038) 15.825648116600393
+$vehicle_(1038) setdest [expr $val(x)-1] 10.0 $V_(1038)
+set V_(1039) 9.012326027441684
+$vehicle_(1039) setdest [expr $val(x)-1] 10.0 $V_(1039)
+set V_(1040) 19.155678484072368
+$vehicle_(1040) setdest [expr $val(x)-1] 10.0 $V_(1040)
+set V_(1041) 8.687956031031398
+$vehicle_(1041) setdest [expr $val(x)-1] 10.0 $V_(1041)
+set V_(1042) 9.945780007067073
+$vehicle_(1042) setdest [expr $val(x)-1] 10.0 $V_(1042)
+set V_(1043) 7.942950144568091
+$vehicle_(1043) setdest [expr $val(x)-1] 10.0 $V_(1043)
+set V_(1044) 17.778768387782776
+$vehicle_(1044) setdest [expr $val(x)-1] 10.0 $V_(1044)
+set V_(1045) 10.076182718843523
+$vehicle_(1045) setdest [expr $val(x)-1] 10.0 $V_(1045)
+set V_(1046) 9.238286108550696
+$vehicle_(1046) setdest [expr $val(x)-1] 10.0 $V_(1046)
+set V_(1047) 9.317127180401236
+$vehicle_(1047) setdest [expr $val(x)-1] 10.0 $V_(1047)
+set V_(1048) 16.154574809216985
+$vehicle_(1048) setdest [expr $val(x)-1] 10.0 $V_(1048)
+set V_(1049) 11.082652355028944
+$vehicle_(1049) setdest [expr $val(x)-1] 10.0 $V_(1049)
+set V_(1050) 13.664775673746126
+$vehicle_(1050) setdest [expr $val(x)-1] 10.0 $V_(1050)
+set V_(1051) 2.3273284150613893
+$vehicle_(1051) setdest [expr $val(x)-1] 10.0 $V_(1051)
+set V_(1052) 6.875815800137177
+$vehicle_(1052) setdest [expr $val(x)-1] 10.0 $V_(1052)
+set V_(1053) 12.15749612636887
+$vehicle_(1053) setdest [expr $val(x)-1] 10.0 $V_(1053)
+set V_(1054) 9.807842054846187
+$vehicle_(1054) setdest [expr $val(x)-1] 10.0 $V_(1054)
+set V_(1055) 14.483702849334355
+$vehicle_(1055) setdest [expr $val(x)-1] 10.0 $V_(1055)
+set V_(1056) 5.983196732214524
+$vehicle_(1056) setdest [expr $val(x)-1] 10.0 $V_(1056)
+set V_(1057) 0.41303773946242517
+$vehicle_(1057) setdest [expr $val(x)-1] 10.0 $V_(1057)
+set V_(1058) 5.201478141102845
+$vehicle_(1058) setdest [expr $val(x)-1] 10.0 $V_(1058)
+set V_(1059) 0.9299295799687091
+$vehicle_(1059) setdest [expr $val(x)-1] 10.0 $V_(1059)
+set V_(1060) 8.459208324270246
+$vehicle_(1060) setdest [expr $val(x)-1] 10.0 $V_(1060)
+set V_(1061) 19.34137865003187
+$vehicle_(1061) setdest [expr $val(x)-1] 10.0 $V_(1061)
+set V_(1062) 14.449466562666471
+$vehicle_(1062) setdest [expr $val(x)-1] 10.0 $V_(1062)
+set V_(1063) 8.692939554561383
+$vehicle_(1063) setdest [expr $val(x)-1] 10.0 $V_(1063)
+set V_(1064) 2.491396128659944
+$vehicle_(1064) setdest [expr $val(x)-1] 10.0 $V_(1064)
+set V_(1065) 19.18027405905865
+$vehicle_(1065) setdest [expr $val(x)-1] 10.0 $V_(1065)
+set V_(1066) 13.0332207004381
+$vehicle_(1066) setdest [expr $val(x)-1] 10.0 $V_(1066)
+set V_(1067) 13.335385799180173
+$vehicle_(1067) setdest [expr $val(x)-1] 10.0 $V_(1067)
+set V_(1068) 17.049173031802436
+$vehicle_(1068) setdest [expr $val(x)-1] 10.0 $V_(1068)
+set V_(1069) 7.866872123306477
+$vehicle_(1069) setdest [expr $val(x)-1] 10.0 $V_(1069)
+set V_(1070) 17.776980312497003
+$vehicle_(1070) setdest [expr $val(x)-1] 10.0 $V_(1070)
+set V_(1071) 17.452381294403008
+$vehicle_(1071) setdest [expr $val(x)-1] 10.0 $V_(1071)
+set V_(1072) 4.447146122408219
+$vehicle_(1072) setdest [expr $val(x)-1] 10.0 $V_(1072)
+set V_(1073) 1.0540479139559022
+$vehicle_(1073) setdest [expr $val(x)-1] 10.0 $V_(1073)
+set V_(1074) 9.12966282042616
+$vehicle_(1074) setdest [expr $val(x)-1] 10.0 $V_(1074)
+set V_(1075) 10.551699455579197
+$vehicle_(1075) setdest [expr $val(x)-1] 10.0 $V_(1075)
+set V_(1076) 9.82183802952649
+$vehicle_(1076) setdest [expr $val(x)-1] 10.0 $V_(1076)
+set V_(1077) 16.324221932992543
+$vehicle_(1077) setdest [expr $val(x)-1] 10.0 $V_(1077)
+set V_(1078) 19.739074948430936
+$vehicle_(1078) setdest [expr $val(x)-1] 10.0 $V_(1078)
+set V_(1079) 18.079267058869007
+$vehicle_(1079) setdest [expr $val(x)-1] 10.0 $V_(1079)
+set V_(1080) 12.827590994360312
+$vehicle_(1080) setdest [expr $val(x)-1] 10.0 $V_(1080)
+set V_(1081) 11.520705396263217
+$vehicle_(1081) setdest [expr $val(x)-1] 10.0 $V_(1081)
+set V_(1082) 16.235600666624414
+$vehicle_(1082) setdest [expr $val(x)-1] 10.0 $V_(1082)
+set V_(1083) 13.699456296451146
+$vehicle_(1083) setdest [expr $val(x)-1] 10.0 $V_(1083)
+set V_(1084) 3.3613417662931044
+$vehicle_(1084) setdest [expr $val(x)-1] 10.0 $V_(1084)
+set V_(1085) 10.026769955437803
+$vehicle_(1085) setdest [expr $val(x)-1] 10.0 $V_(1085)
+set V_(1086) 16.70888803828439
+$vehicle_(1086) setdest [expr $val(x)-1] 10.0 $V_(1086)
+set V_(1087) 13.412323956164666
+$vehicle_(1087) setdest [expr $val(x)-1] 10.0 $V_(1087)
+set V_(1088) 12.754871938676938
+$vehicle_(1088) setdest [expr $val(x)-1] 10.0 $V_(1088)
+set V_(1089) 6.8578061051163575
+$vehicle_(1089) setdest [expr $val(x)-1] 10.0 $V_(1089)
+set V_(1090) 15.052457523108975
+$vehicle_(1090) setdest [expr $val(x)-1] 10.0 $V_(1090)
+set V_(1091) 12.687609021254682
+$vehicle_(1091) setdest [expr $val(x)-1] 10.0 $V_(1091)
+set V_(1092) 4.627031330519031
+$vehicle_(1092) setdest [expr $val(x)-1] 10.0 $V_(1092)
+set V_(1093) 8.592072270889123
+$vehicle_(1093) setdest [expr $val(x)-1] 10.0 $V_(1093)
+set V_(1094) 5.167568704159695
+$vehicle_(1094) setdest [expr $val(x)-1] 10.0 $V_(1094)
+set V_(1095) 8.517951300172733
+$vehicle_(1095) setdest [expr $val(x)-1] 10.0 $V_(1095)
+set V_(1096) 15.46735243823852
+$vehicle_(1096) setdest [expr $val(x)-1] 10.0 $V_(1096)
+set V_(1097) 7.450714938702685
+$vehicle_(1097) setdest [expr $val(x)-1] 10.0 $V_(1097)
+set V_(1098) 12.959083271098992
+$vehicle_(1098) setdest [expr $val(x)-1] 10.0 $V_(1098)
+set V_(1099) 7.141460740702287
+$vehicle_(1099) setdest [expr $val(x)-1] 10.0 $V_(1099)
+set V_(1100) 4.026370567156652
+$vehicle_(1100) setdest [expr $val(x)-1] 10.0 $V_(1100)
+set V_(1101) 5.247873632743247
+$vehicle_(1101) setdest [expr $val(x)-1] 10.0 $V_(1101)
+set V_(1102) 12.122465797781336
+$vehicle_(1102) setdest [expr $val(x)-1] 10.0 $V_(1102)
+set V_(1103) 15.156406941693605
+$vehicle_(1103) setdest [expr $val(x)-1] 10.0 $V_(1103)
+set V_(1104) 0.7168697878844332
+$vehicle_(1104) setdest [expr $val(x)-1] 10.0 $V_(1104)
+set V_(1105) 6.466862187162028
+$vehicle_(1105) setdest [expr $val(x)-1] 10.0 $V_(1105)
+set V_(1106) 0.9124841073112733
+$vehicle_(1106) setdest [expr $val(x)-1] 10.0 $V_(1106)
+set V_(1107) 6.848469163928598
+$vehicle_(1107) setdest [expr $val(x)-1] 10.0 $V_(1107)
+set V_(1108) 3.484191434445285
+$vehicle_(1108) setdest [expr $val(x)-1] 10.0 $V_(1108)
+set V_(1109) 11.378557927974544
+$vehicle_(1109) setdest [expr $val(x)-1] 10.0 $V_(1109)
+set V_(1110) 11.400555668274006
+$vehicle_(1110) setdest [expr $val(x)-1] 10.0 $V_(1110)
+set V_(1111) 13.773635810961649
+$vehicle_(1111) setdest [expr $val(x)-1] 10.0 $V_(1111)
+set V_(1112) 4.982636090215175
+$vehicle_(1112) setdest [expr $val(x)-1] 10.0 $V_(1112)
+set V_(1113) 19.90329298803315
+$vehicle_(1113) setdest [expr $val(x)-1] 10.0 $V_(1113)
+set V_(1114) 10.169110315803557
+$vehicle_(1114) setdest [expr $val(x)-1] 10.0 $V_(1114)
+set V_(1115) 13.987499299565222
+$vehicle_(1115) setdest [expr $val(x)-1] 10.0 $V_(1115)
+set V_(1116) 17.398903021783887
+$vehicle_(1116) setdest [expr $val(x)-1] 10.0 $V_(1116)
+set V_(1117) 4.827703774289224
+$vehicle_(1117) setdest [expr $val(x)-1] 10.0 $V_(1117)
+set V_(1118) 9.95774303583521
+$vehicle_(1118) setdest [expr $val(x)-1] 10.0 $V_(1118)
+set V_(1119) 7.784352699278337
+$vehicle_(1119) setdest [expr $val(x)-1] 10.0 $V_(1119)
+set V_(1120) 5.89241540150212
+$vehicle_(1120) setdest [expr $val(x)-1] 10.0 $V_(1120)
+set V_(1121) 9.023134134955459
+$vehicle_(1121) setdest [expr $val(x)-1] 10.0 $V_(1121)
+set V_(1122) 5.467323127036403
+$vehicle_(1122) setdest [expr $val(x)-1] 10.0 $V_(1122)
+set V_(1123) 14.407145676512323
+$vehicle_(1123) setdest [expr $val(x)-1] 10.0 $V_(1123)
+set V_(1124) 9.376289711894456
+$vehicle_(1124) setdest [expr $val(x)-1] 10.0 $V_(1124)
+set V_(1125) 5.472368811620322
+$vehicle_(1125) setdest [expr $val(x)-1] 10.0 $V_(1125)
+set V_(1126) 13.344655148215661
+$vehicle_(1126) setdest [expr $val(x)-1] 10.0 $V_(1126)
+set V_(1127) 9.912013137804045
+$vehicle_(1127) setdest [expr $val(x)-1] 10.0 $V_(1127)
+set V_(1128) 18.241601693592987
+$vehicle_(1128) setdest [expr $val(x)-1] 10.0 $V_(1128)
+set V_(1129) 11.196600940423341
+$vehicle_(1129) setdest [expr $val(x)-1] 10.0 $V_(1129)
+set V_(1130) 16.31167101110943
+$vehicle_(1130) setdest [expr $val(x)-1] 10.0 $V_(1130)
+set V_(1131) 10.218756191562417
+$vehicle_(1131) setdest [expr $val(x)-1] 10.0 $V_(1131)
+set V_(1132) 12.631526468672496
+$vehicle_(1132) setdest [expr $val(x)-1] 10.0 $V_(1132)
+set V_(1133) 6.5847248299672145
+$vehicle_(1133) setdest [expr $val(x)-1] 10.0 $V_(1133)
+set V_(1134) 4.469553941774862
+$vehicle_(1134) setdest [expr $val(x)-1] 10.0 $V_(1134)
+set V_(1135) 5.351292298964658
+$vehicle_(1135) setdest [expr $val(x)-1] 10.0 $V_(1135)
+set V_(1136) 2.000820286044218
+$vehicle_(1136) setdest [expr $val(x)-1] 10.0 $V_(1136)
+set V_(1137) 0.16217050417502543
+$vehicle_(1137) setdest [expr $val(x)-1] 10.0 $V_(1137)
+set V_(1138) 12.99959539582062
+$vehicle_(1138) setdest [expr $val(x)-1] 10.0 $V_(1138)
+set V_(1139) 10.969773374260228
+$vehicle_(1139) setdest [expr $val(x)-1] 10.0 $V_(1139)
+set V_(1140) 6.950024405465582
+$vehicle_(1140) setdest [expr $val(x)-1] 10.0 $V_(1140)
+set V_(1141) 15.496676380902176
+$vehicle_(1141) setdest [expr $val(x)-1] 10.0 $V_(1141)
+set V_(1142) 14.798991897454684
+$vehicle_(1142) setdest [expr $val(x)-1] 10.0 $V_(1142)
+set V_(1143) 1.518698178922544
+$vehicle_(1143) setdest [expr $val(x)-1] 10.0 $V_(1143)
+set V_(1144) 7.702681139658642
+$vehicle_(1144) setdest [expr $val(x)-1] 10.0 $V_(1144)
+set V_(1145) 1.7235457271410914
+$vehicle_(1145) setdest [expr $val(x)-1] 10.0 $V_(1145)
+set V_(1146) 19.031194815399925
+$vehicle_(1146) setdest [expr $val(x)-1] 10.0 $V_(1146)
+set V_(1147) 5.663027411328192
+$vehicle_(1147) setdest [expr $val(x)-1] 10.0 $V_(1147)
+set V_(1148) 10.097746983140183
+$vehicle_(1148) setdest [expr $val(x)-1] 10.0 $V_(1148)
+set V_(1149) 2.0830771171324325
+$vehicle_(1149) setdest [expr $val(x)-1] 10.0 $V_(1149)
+set V_(1150) 12.136839442682225
+$vehicle_(1150) setdest [expr $val(x)-1] 10.0 $V_(1150)
+set V_(1151) 19.156947182206764
+$vehicle_(1151) setdest [expr $val(x)-1] 10.0 $V_(1151)
+set V_(1152) 9.598309496880272
+$vehicle_(1152) setdest [expr $val(x)-1] 10.0 $V_(1152)
+set V_(1153) 15.898036571546104
+$vehicle_(1153) setdest [expr $val(x)-1] 10.0 $V_(1153)
+set V_(1154) 16.542670013763203
+$vehicle_(1154) setdest [expr $val(x)-1] 10.0 $V_(1154)
+set V_(1155) 2.8875974660995696
+$vehicle_(1155) setdest [expr $val(x)-1] 10.0 $V_(1155)
+set V_(1156) 6.571608055526794
+$vehicle_(1156) setdest [expr $val(x)-1] 10.0 $V_(1156)
+set V_(1157) 18.579178444591086
+$vehicle_(1157) setdest [expr $val(x)-1] 10.0 $V_(1157)
+set V_(1158) 14.122304970184809
+$vehicle_(1158) setdest [expr $val(x)-1] 10.0 $V_(1158)
+set V_(1159) 4.558722555499211
+$vehicle_(1159) setdest [expr $val(x)-1] 10.0 $V_(1159)
+set V_(1160) 1.9742710843536915
+$vehicle_(1160) setdest [expr $val(x)-1] 10.0 $V_(1160)
+set V_(1161) 1.5319806719143503
+$vehicle_(1161) setdest [expr $val(x)-1] 10.0 $V_(1161)
+set V_(1162) 6.40407409075465
+$vehicle_(1162) setdest [expr $val(x)-1] 10.0 $V_(1162)
+set V_(1163) 11.326874294184218
+$vehicle_(1163) setdest [expr $val(x)-1] 10.0 $V_(1163)
+set V_(1164) 1.5805865981739409
+$vehicle_(1164) setdest [expr $val(x)-1] 10.0 $V_(1164)
+set V_(1165) 19.2479308409215
+$vehicle_(1165) setdest [expr $val(x)-1] 10.0 $V_(1165)
+set V_(1166) 1.5875739836238512
+$vehicle_(1166) setdest [expr $val(x)-1] 10.0 $V_(1166)
+set V_(1167) 7.675441556497303
+$vehicle_(1167) setdest [expr $val(x)-1] 10.0 $V_(1167)
+set V_(1168) 19.020529135017274
+$vehicle_(1168) setdest [expr $val(x)-1] 10.0 $V_(1168)
+set V_(1169) 4.398829946584768
+$vehicle_(1169) setdest [expr $val(x)-1] 10.0 $V_(1169)
+set V_(1170) 9.621997814815888
+$vehicle_(1170) setdest [expr $val(x)-1] 10.0 $V_(1170)
+set V_(1171) 17.90944054179739
+$vehicle_(1171) setdest [expr $val(x)-1] 10.0 $V_(1171)
+set V_(1172) 13.14817753363972
+$vehicle_(1172) setdest [expr $val(x)-1] 10.0 $V_(1172)
+set V_(1173) 13.412764527213072
+$vehicle_(1173) setdest [expr $val(x)-1] 10.0 $V_(1173)
+set V_(1174) 10.915691868297559
+$vehicle_(1174) setdest [expr $val(x)-1] 10.0 $V_(1174)
+set V_(1175) 15.876659702465439
+$vehicle_(1175) setdest [expr $val(x)-1] 10.0 $V_(1175)
+set V_(1176) 3.640048805909888
+$vehicle_(1176) setdest [expr $val(x)-1] 10.0 $V_(1176)
+set V_(1177) 14.795530827915663
+$vehicle_(1177) setdest [expr $val(x)-1] 10.0 $V_(1177)
+set V_(1178) 1.6878080810737717
+$vehicle_(1178) setdest [expr $val(x)-1] 10.0 $V_(1178)
+set V_(1179) 5.868402175011418
+$vehicle_(1179) setdest [expr $val(x)-1] 10.0 $V_(1179)
+set V_(1180) 0.2268064857057106
+$vehicle_(1180) setdest [expr $val(x)-1] 10.0 $V_(1180)
+set V_(1181) 10.37147059191103
+$vehicle_(1181) setdest [expr $val(x)-1] 10.0 $V_(1181)
+set V_(1182) 9.539317839900479
+$vehicle_(1182) setdest [expr $val(x)-1] 10.0 $V_(1182)
+set V_(1183) 18.12573396108227
+$vehicle_(1183) setdest [expr $val(x)-1] 10.0 $V_(1183)
+set V_(1184) 15.590675669235956
+$vehicle_(1184) setdest [expr $val(x)-1] 10.0 $V_(1184)
+set V_(1185) 5.652816267122429
+$vehicle_(1185) setdest [expr $val(x)-1] 10.0 $V_(1185)
+set V_(1186) 16.512069787296777
+$vehicle_(1186) setdest [expr $val(x)-1] 10.0 $V_(1186)
+set V_(1187) 19.974790853627752
+$vehicle_(1187) setdest [expr $val(x)-1] 10.0 $V_(1187)
+set V_(1188) 9.714831601032207
+$vehicle_(1188) setdest [expr $val(x)-1] 10.0 $V_(1188)
+set V_(1189) 19.706814469164662
+$vehicle_(1189) setdest [expr $val(x)-1] 10.0 $V_(1189)
+set V_(1190) 3.7209699502298643
+$vehicle_(1190) setdest [expr $val(x)-1] 10.0 $V_(1190)
+set V_(1191) 19.337369502905695
+$vehicle_(1191) setdest [expr $val(x)-1] 10.0 $V_(1191)
+set V_(1192) 14.349917114901917
+$vehicle_(1192) setdest [expr $val(x)-1] 10.0 $V_(1192)
+set V_(1193) 7.175042943381769
+$vehicle_(1193) setdest [expr $val(x)-1] 10.0 $V_(1193)
+set V_(1194) 1.5857746201415668
+$vehicle_(1194) setdest [expr $val(x)-1] 10.0 $V_(1194)
+set V_(1195) 11.210663098336992
+$vehicle_(1195) setdest [expr $val(x)-1] 10.0 $V_(1195)
+set V_(1196) 10.26675773744219
+$vehicle_(1196) setdest [expr $val(x)-1] 10.0 $V_(1196)
+set V_(1197) 15.509499741292645
+$vehicle_(1197) setdest [expr $val(x)-1] 10.0 $V_(1197)
+set V_(1198) 12.755392726140432
+$vehicle_(1198) setdest [expr $val(x)-1] 10.0 $V_(1198)
+set V_(1199) 9.682678881608421
+$vehicle_(1199) setdest [expr $val(x)-1] 10.0 $V_(1199)
